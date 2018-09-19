@@ -13,7 +13,7 @@ export default class My extends Component{
     constructor(props) {
         super(props);
         this.state = {
-          selectedTab: 'home',
+          selectedTab: 'my',
           hidden: false,
           fullScreen: false,           
         };
