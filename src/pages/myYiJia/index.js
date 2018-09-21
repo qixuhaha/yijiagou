@@ -9,11 +9,14 @@ import carActive from "../../mock/svg/car-active.svg"
 import my from "../../mock/svg/my.svg"
 import myActive from "../../mock/svg/my-active.svg"
 import MyPage from "../my/index"
+// import Detail from "../detail/index"
+import Home from "../Home/index"
+// import {BrowserRouter as Router,Route,Switch} from "react-router-dom" 
 export default class My extends Component{
     constructor(props) {
         super(props);
         this.state = {
-          selectedTab: 'my',
+          selectedTab: 'home',
           hidden: false,
           fullScreen: false,           
         };
@@ -49,7 +52,7 @@ export default class My extends Component{
               });
             }}
           >
-          <div>主页</div>
+           <Home></Home>
           </TabBar.Item>
 
             <TabBar.Item
