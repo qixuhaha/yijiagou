@@ -11,6 +11,7 @@ import myActive from "../../mock/svg/my-active.svg"
 import MyPage from "../my/index"
 // import Detail from "../detail/index"
 import Home from "../Home/index"
+import Demo from '../listpage'
 // import {BrowserRouter as Router,Route,Switch} from "react-router-dom" 
 export default class My extends Component{
     constructor(props) {
@@ -77,7 +78,7 @@ export default class My extends Component{
               });
             }}
           >
-          <div>分类</div>
+          <Demo></Demo>
           </TabBar.Item>
           <TabBar.Item
             title="购物车"
