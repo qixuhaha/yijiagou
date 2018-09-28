@@ -1,0 +1,45 @@
+.foo-menu {
+    position: relative;
+    z-index: 1000 !important;
+  }
+  
+  .menu-active .top-nav-bar{
+    z-index: 80;
+  }
+  
+  .top-nav-bar {
+    position: relative;
+    background-color: #008AE6;
+    color: #FFF;
+  }
+  .am-navbar-title {
+    color: #FFF!important;
+  }
+  .menu-mask {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.4;
+    z-index: 79;
+  }
+  .showListBox{
+    width:2.73rem;
+   
+    .listTitle{
+    height:.3rem;
+     line-height:.4rem;
+     padding-left:.2rem;
+     font-weight: bold;
+     color:#333;
+    };
+    .gridBox{
+      width:100%;
+      padding-bottom:.2rem;
+      background:#fff;
+      margin-left:.1rem
+    }
+  }
+  

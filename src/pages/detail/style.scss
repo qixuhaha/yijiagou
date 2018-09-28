@@ -245,7 +245,7 @@ i.icon-oversea-shop {
 .detail-right-guanzhu {
     width: 18%;
     display: inline-block;
-    float: right;
+    // float: right;
     text-align: center;
     color: #666;
     position: relative;
@@ -651,7 +651,7 @@ i.icon-kejifen {
 }
 .dianpu-box dd li {
     color: #333;
-    box-flex: 1;
+    // box-flex: 1;
     -webkit-box-flex: 1;
     -moz-box-flex: 1;
 }
@@ -706,7 +706,7 @@ i.icon-kejifen {
     font-size: .125rem;
 }
 .dianpu-box dd li {
-    box-flex: 1;
+    // box-flex: 1;
     -webkit-box-flex: 1;
     -moz-box-flex: 1;
 }
@@ -737,3 +737,73 @@ i.icon-kejifen {
     background-position: 0 -1.02rem;
     top: -.02rem;
 }
+.i-often-buy {
+    background-color: #fff;
+    margin-top: .08rem;
+    width: 100%;
+    // overflow-x: scroll;
+}
+.i-often-buy .iob-t {
+    height: .3rem;
+    line-height: .3rem;
+    padding: 0 .1rem;
+}
+.i-often-buy .iob-t span {
+    font-size: .14rem;
+    color: #333;
+    padding-left: .2rem;
+    background: url(../../mock/img/m_buy.2c4aa0c.png) no-repeat 0;
+    background-size: .18rem;
+    line-height: .3rem;
+    display: block;
+}
+.fixedBox{
+    width:100%;
+    // overflow: auto;
+ 
+    // overFlow-x: scroll ;
+    // overFlow-y: hidden ;   
+}
+.max-buy-list {
+    // overflow-x: scroll;
+    overflow-x: auto;
+    // overflow: hidden;
+    // width:20rem;
+    // display:-webkit-box;
+    padding-bottom: .1rem;
+    display: flex;
+}
+.max-buy-list .swiper-slide {
+    width: 1rem;
+    padding: 0 .08rem;
+    position: relative;
+    
+}
+.max-buy-list .swiper-slide img {
+    widows: 0.8rem;
+    height:0.8rem;
+    display: inline-block;  
+}
+.max-buy-list .iob-name {
+    display: block;
+    height: .29rem;
+    line-height: .14rem;
+    overflow: hidden;
+    font-size: .11rem;
+    display: -webkit-box;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    padding-top: .02rem;
+    color:gray;
+}
+.max-buy-list .iob-info {
+    display: block;
+    padding-top: 0;
+    color: #ff2832;
+    font-size: .11rem;
+}
+.picList img{
+    width:100%;
+}
+

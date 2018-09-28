@@ -1,0 +1,2506 @@
+{
+    "errorcode": 0,
+    "msg": "",
+    "data": [
+        {
+            "widgets_type": "wap_shopmax_slide",
+            "setting": {
+                "title": "",
+                "class": "",
+                "pic": [
+                        {
+                            "id":1530065995046,
+                            "link":"http:\/\/image.yijiago.com\/2b\/d7\/86\/5b56166f606200ca4a4d7d5311257845f4f5ff41.jpg"
+                        },
+                        {
+                            "id":1529041188313,
+                            "link":"http:\/\/image.yijiago.com\/c6\/fc\/1e\/45256484304456b322a81bcf2193fe3fe698f151.jpg"
+                        },
+                        {
+                            "id":1531876859983,
+                            "link":"http:\/\/image.yijiago.com\/b6\/be\/10\/8cab8929c3ba8ac693c9d949c7684dc7c56fadf7.jpg"
+                        },
+                        {
+                            "id":1530838954183,
+                            "link":"http:\/\/image.yijiago.com\/e0\/ff\/61\/3089ea4fdb78dd3559dd89d633e03d288dc58f88.jpg"
+                        },
+                        {
+                            "id":1529041186479,
+                            "link":"http:\/\/image.yijiago.com\/e4\/a7\/74\/7d11b14179632871f96d3f974ead0108f2a9ee51.jpg"
+                        }
+                    ],
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29516",
+                "widgets": "wap_shopmax_slide",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1537003513169"
+            },
+            "params": {
+                "title": "",
+                "class": "",
+                "pic": {
+                    "1530065995046": {
+                        "id": "1530065995046",
+                        "link": "http:\/\/image.yijiago.com\/2b\/d7\/86\/5b56166f606200ca4a4d7d5311257845f4f5ff41.jpg",
+                        "linktarget": "#\/member-help-detail\/3556",
+                        "linkinfo": "\u6708\u997c",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1529041188313": {
+                        "id": "1529041188313",
+                        "link": "http:\/\/image.yijiago.com\/c6\/fc\/1e\/45256484304456b322a81bcf2193fe3fe698f151.jpg",
+                        "linktarget": "#\/member-help-detail\/3560",
+                        "linkinfo": "\u6d78\u8c37\u6708\u997c",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1531876859983": {
+                        "id": "1531876859983",
+                        "link": "http:\/\/image.yijiago.com\/b6\/be\/10\/8cab8929c3ba8ac693c9d949c7684dc7c56fadf7.jpg",
+                        "linktarget": "#\/member-help-detail\/3581",
+                        "linkinfo": "\u5976\u7c89",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1530838954183": {
+                        "id": "1530838954183",
+                        "link": "http:\/\/image.yijiago.com\/e0\/ff\/61\/3089ea4fdb78dd3559dd89d633e03d288dc58f88.jpg",
+                        "linktarget": "#\/member-help-detail\/3569",
+                        "linkinfo": "\u7535\u5668",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1529041186479": {
+                        "id": "1529041186479",
+                        "link": "http:\/\/image.yijiago.com\/e4\/a7\/74\/7d11b14179632871f96d3f974ead0108f2a9ee51.jpg",
+                        "linktarget": "#\/member-help-detail\/3570",
+                        "linkinfo": "\u80cc\u5305",
+                        "width": "",
+                        "height": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29516",
+                "widgets": "wap_shopmax_slide",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1537003513169"
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_indexnav",
+            "setting": {
+                "title": "",
+                "class": "",
+                "text": [
+                    {
+                        "id": "1508526015938",
+                        "link": "http:\/\/image.yijiago.com\/ea\/8d\/eb\/9b4a9aa53af484d939b3adb26ba07948a62853bd.jpg",
+                        "linktarget": "#\/channel-market",
+                        "linkinfo": "\u8d85\u5e02\u5230\u5bb6"
+                    },
+                    {
+                        "id": "1508526016824",
+                        "link": "http:\/\/image.yijiago.com\/e2\/ea\/ce\/114668b82dd409df2fbad40baa1dccc10e15585c.jpg",
+                        "linktarget": "#\/channel-overseas",
+                        "linkinfo": "\u5168\u7403\u8d2d"
+                    },
+                    {
+                        "id": "1508526017755",
+                        "link": "http:\/\/image.yijiago.com\/c4\/96\/fd\/6438354ef2dc24b64452d037bc0815e63d73971f.jpg",
+                        "linktarget": "#\/channel-shenghuoquan",
+                        "linkinfo": "\u5feb\u4e50\u57ce"
+                    },
+                    {
+                        "id": "1508526018240",
+                        "link": "http:\/\/image.yijiago.com\/9d\/5f\/a1\/4bdb9f946f0ef0a2d3372f84016cd56cf975a7d0.jpg",
+                        "linktarget": "#\/channel-lipinwu",
+                        "linkinfo": "\u6613\u4f73\u4f18\u9009"
+                    },
+                    {
+                        "id": "1508526018739",
+                        "link": "http:\/\/image.yijiago.com\/be\/66\/2c\/9f2b8d78e884b36c9f4163f161beb1dfcd2b2b28.jpg",
+                        "linktarget": "#\/channel-caishi",
+                        "linkinfo": "\u5929\u5929\u83dc\u5e02"
+                    },
+                    {
+                        "id": "1508526019270",
+                        "link": "http:\/\/image.yijiago.com\/37\/42\/19\/7aa83a92747dd55b5f4fc1418d28794f12805fe3.jpg",
+                        "linktarget": "#\/channel-muying",
+                        "linkinfo": "\u6bcd\u5a74\u9986"
+                    },
+                    {
+                        "id": "1508526020601",
+                        "link": "http:\/\/image.yijiago.com\/5e\/e5\/cb\/cc57402174827bc3307421607c73ab58c65e177d.jpg",
+                        "linktarget": "#\/member-help-detail\/3483",
+                        "linkinfo": "\u5168\u7403\u95ea\u8d2d"
+                    },
+                    {
+                        "id": "1508526020056",
+                        "link": "http:\/\/image.yijiago.com\/8d\/c6\/3d\/ebd33984c87fb66e6e1fd9be1f89af9f156a08e8.jpg",
+                        "linktarget": "#\/member-coupon-diyongList",
+                        "linkinfo": "\u5361\u5238\u6fc0\u6d3b"
+                    }
+                ],
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29506",
+                "widgets": "wap_shopmax_indexnav",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536547901346"
+            },
+            "params": {
+                "title": "",
+                "class": "",
+                "text": {
+                    "1508526015938": {
+                        "id": "1508526015938",
+                        "link": "http:\/\/image.yijiago.com\/ea\/8d\/eb\/9b4a9aa53af484d939b3adb26ba07948a62853bd.jpg",
+                        "linktarget": "#\/channel-market",
+                        "linkinfo": "\u8d85\u5e02\u5230\u5bb6",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1508526016824": {
+                        "id": "1508526016824",
+                        "link": "http:\/\/image.yijiago.com\/e2\/ea\/ce\/114668b82dd409df2fbad40baa1dccc10e15585c.jpg",
+                        "linktarget": "#\/channel-overseas",
+                        "linkinfo": "\u5168\u7403\u8d2d",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1508526017755": {
+                        "id": "1508526017755",
+                        "link": "http:\/\/image.yijiago.com\/c4\/96\/fd\/6438354ef2dc24b64452d037bc0815e63d73971f.jpg",
+                        "linktarget": "#\/channel-shenghuoquan",
+                        "linkinfo": "\u5feb\u4e50\u57ce",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1508526018240": {
+                        "id": "1508526018240",
+                        "link": "http:\/\/image.yijiago.com\/9d\/5f\/a1\/4bdb9f946f0ef0a2d3372f84016cd56cf975a7d0.jpg",
+                        "linktarget": "#\/channel-lipinwu",
+                        "linkinfo": "\u6613\u4f73\u4f18\u9009",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1508526018739": {
+                        "id": "1508526018739",
+                        "link": "http:\/\/image.yijiago.com\/be\/66\/2c\/9f2b8d78e884b36c9f4163f161beb1dfcd2b2b28.jpg",
+                        "linktarget": "#\/channel-caishi",
+                        "linkinfo": "\u5929\u5929\u83dc\u5e02",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1508526019270": {
+                        "id": "1508526019270",
+                        "link": "http:\/\/image.yijiago.com\/37\/42\/19\/7aa83a92747dd55b5f4fc1418d28794f12805fe3.jpg",
+                        "linktarget": "#\/channel-muying",
+                        "linkinfo": "\u6bcd\u5a74\u9986",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1508526020601": {
+                        "id": "1508526020601",
+                        "link": "http:\/\/image.yijiago.com\/5e\/e5\/cb\/cc57402174827bc3307421607c73ab58c65e177d.jpg",
+                        "linktarget": "#\/member-help-detail\/3483",
+                        "linkinfo": "\u5168\u7403\u95ea\u8d2d",
+                        "width": "",
+                        "height": ""
+                    },
+                    "1508526020056": {
+                        "id": "1508526020056",
+                        "link": "http:\/\/image.yijiago.com\/8d\/c6\/3d\/ebd33984c87fb66e6e1fd9be1f89af9f156a08e8.jpg",
+                        "linktarget": "#\/member-coupon-diyongList",
+                        "linkinfo": "\u5361\u5238\u6fc0\u6d3b",
+                        "width": "",
+                        "height": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29506",
+                "widgets": "wap_shopmax_indexnav",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536547901346"
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_pic",
+            "setting": {
+                "pic": {
+                    "1": {
+                        "id": "",
+                        "logo": "http:\/\/image.yijiago.com\/5c\/bf\/a9\/147e8ec7105caad06388195e030d633a1b557be3.jpg"
+                    }
+                },
+                "link": "#\/member-help-detail\/3579",
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29558",
+                "widgets": "wap_shopmax_pic",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536742517996"
+            },
+            "params": {
+                "pic": {
+                    "1": {
+                        "id": "",
+                        "logo": "http:\/\/image.yijiago.com\/5c\/bf\/a9\/147e8ec7105caad06388195e030d633a1b557be3.jpg"
+                    }
+                },
+                "link": "#\/member-help-detail\/3579",
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29558",
+                "widgets": "wap_shopmax_pic",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536742517996"
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_index_article",
+            "setting": {
+                "title": "",
+                "class": "",
+                "show_market": "1",
+                "shijian": "1000",
+                "sudu": "500",
+                "titimg": "http:\/\/dev.yijiago.com:8102\/themes\/appmall\/images\/m_index_article_title.png",
+                "pic": {
+                    "1533626703908": {
+                        "id": "1533626703908",
+                        "linkinfo": "\u8054\u76db\u7535\u5b50\u8d2d\u7269\u5361  \u5145\u503c\u7acb\u4eab\u589e\u503c\u767e\u5206\u4e4b\u4e09",
+                        "linktarget": "#\/member-change"
+                    },
+                    "1536732463754": {
+                        "id": "1536732463754",
+                        "linkinfo": "\u4e2d\u79cb\u56e2\u5706\u60e0 \u5168\u573a5\u6298\u8d77",
+                        "linktarget": "#\/member-help-detail\/3579"
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29514",
+                "widgets": "wap_shopmax_index_article",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536732485963"
+            },
+            "params": {
+                "title": "",
+                "class": "",
+                "show_market": "1",
+                "shijian": "1000",
+                "sudu": "500",
+                "titimg": "http:\/\/dev.yijiago.com:8102\/themes\/appmall\/images\/m_index_article_title.png",
+                "pic": {
+                    "1533626703908": {
+                        "id": "1533626703908",
+                        "linkinfo": "\u8054\u76db\u7535\u5b50\u8d2d\u7269\u5361  \u5145\u503c\u7acb\u4eab\u589e\u503c\u767e\u5206\u4e4b\u4e09",
+                        "linktarget": "#\/member-change"
+                    },
+                    "1536732463754": {
+                        "id": "1536732463754",
+                        "linkinfo": "\u4e2d\u79cb\u56e2\u5706\u60e0 \u5168\u573a5\u6298\u8d77",
+                        "linktarget": "#\/member-help-detail\/3579"
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29514",
+                "widgets": "wap_shopmax_index_article",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536732485963"
+            }
+        },
+        {
+            "widgets_type": "wap_goods_index_qgou",
+            "setting": {
+                "texttag": "\u9650\u65f6\u62a2\u8d2d",
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "insert_widget",
+                "widgets": "wap_goods_index_qgou",
+                "domid": "1508745711297.601",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall"
+            },
+            "params": {
+                "texttag": "\u9650\u65f6\u62a2\u8d2d",
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "insert_widget",
+                "widgets": "wap_goods_index_qgou",
+                "domid": "1508745711297.601",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "data": {
+                    "activity_id": 740,
+                    "buy_limit": 1,
+                    "release_time": 1537200000,
+                    "start_time": 1537286400,
+                    "end_time": 1537372740
+                },
+                "actitem": [
+                    {
+                        "item_id": 64867,
+                        "title": "\u97e9\u56fdKOCORIUM\u604b\u4eba\u9762\u819c25ml*8\u7247\u3010\u97e9\u56fd\u76f4\u90ae\u3011",
+                        "item_default_image": "http:\/\/image.yijiago.com\/b0\/82\/6b\/3a42f3223296110ef95c21289a91335bc03887f0.jpg",
+                        "activity_price": "89.000"
+                    },
+                    {
+                        "item_id": 65371,
+                        "title": "Nutrilon\u8bfa\u4f18\u80fd\u5a74\u513f\u914d\u65b9\u5976\u7c892\u6bb5 6-12\u6708 900g*6\u7f50",
+                        "item_default_image": "http:\/\/image.yijiago.com\/fc\/09\/e5\/1b0f00c3255815d4b3f30103888b973ef55ae963.jpg",
+                        "activity_price": "939.000"
+                    },
+                    {
+                        "item_id": 39139,
+                        "title": "\u5fb7\u56fdQmile\u542f\u5999\u5929\u751f\u7ae5\u8da3\u62c9\u62c9\u88e4",
+                        "item_default_image": "http:\/\/image.yijiago.com\/6c\/f8\/f8\/6c81ed254c2bbb52297758210cc44e6a0284563b.jpg",
+                        "activity_price": "59.900"
+                    },
+                    {
+                        "item_id": 30999,
+                        "title": "\u55e8\u76ae\u718a\u56db\u5b63\u900f\u6c14\u901a\u7528\u53cc\u80a9\u62b1\u5a74\u8170\u51f31511\u900f\u6c14\u6b3e",
+                        "item_default_image": "http:\/\/image.yijiago.com\/e0\/77\/b3\/72c0bba700c2bdc6dd1c65b5c6dcd668d705fde5.jpg",
+                        "activity_price": "62.500"
+                    },
+                    {
+                        "item_id": 53210,
+                        "title": "Bear\/\u5c0f\u718a JSQ-A30A2 \u5bb6\u7528\u9759\u97f3\u52a0\u6e7f\u5668\u8d8b\u96f6\u8f90\u5c04\u7a7a\u6c14\u5bb6\u7528\u52a0\u6e7f\u5668",
+                        "item_default_image": "http:\/\/image.yijiago.com\/ba\/29\/26\/02f4dbc16272cd0063b6047a5566635681998bc9.jpg",
+                        "activity_price": "139.900"
+                    },
+                    {
+                        "item_id": 6344,
+                        "title": "\u98d8\u67d4 \u6ecb\u6da6\u53bb\u5c51\u6d17\u53d1\u9732 200ml",
+                        "item_default_image": "http:\/\/image.yijiago.com\/35\/fb\/1b\/0ecf5995550f8c3ee54f3e29c012834aa9f738fe.JPG",
+                        "activity_price": "7.000"
+                    },
+                    {
+                        "item_id": 15780,
+                        "title": "\u5929\u5de2 \u67b8\u675e\u8702\u871c 900g",
+                        "item_default_image": "http:\/\/image.yijiago.com\/1d\/ad\/fa\/4182d8d66475f34e283ca5fa1ee1db9e597cb6d5.JPG",
+                        "activity_price": "19.900"
+                    },
+                    {
+                        "item_id": 65980,
+                        "title": "\u536b\u9f99 \u90a3\u8c46\u76ae 60g",
+                        "item_default_image": "http:\/\/image.yijiago.com\/e7\/b9\/a5\/f5afe175cae4f252df3d1f09c4c849123c5a0ff9.png",
+                        "activity_price": "2.400"
+                    },
+                    {
+                        "item_id": 2718,
+                        "title": "\u9510\u6fb3 \u9752\u67e0\u5473 \u6717\u59c6\u9e21\u5c3e\u9152 275ml",
+                        "item_default_image": "http:\/\/image.yijiago.com\/69\/a7\/8c\/2ac996d59339e910e1fe5e78870f4e1ffaebe8b2.jpg",
+                        "activity_price": "6.700"
+                    }
+                ]
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_group",
+            "setting": {
+                "style": "",
+                "title": "",
+                "background": "",
+                "class": "",
+                "pic": {
+                    "1519798107594": {
+                        "id": "1519798107594",
+                        "link": "http:\/\/image.yijiago.com\/16\/65\/88\/4722f84bc4d2f27faa989068ef872de539c4dc56.jpg",
+                        "linktarget": "#\/member-help-detail\/3555",
+                        "linkinfo": "",
+                        "width": "100%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1519798108154": {
+                        "id": "1519798108154",
+                        "link": "http:\/\/image.yijiago.com\/2e\/00\/b1\/5a21da35e0f372b663bb5c2b3443550a07d99af8.jpg",
+                        "linktarget": "#\/member-help-detail\/3559",
+                        "linkinfo": "",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1519798108890": {
+                        "id": "1519798108890",
+                        "link": "http:\/\/image.yijiago.com\/a2\/e4\/09\/bad7f4a2cefcc377708e35e3f0cc698f585dbbf0.jpg",
+                        "linktarget": "#\/member-help-detail\/3565",
+                        "linkinfo": "",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1519798110298": {
+                        "id": "1519798110298",
+                        "link": "http:\/\/image.yijiago.com\/94\/09\/2a\/2cf1a8c10f5143d424eb5ed0bc3ed2590f447345.jpg",
+                        "linktarget": "#\/member-help-detail\/3573",
+                        "linkinfo": "",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29508",
+                "widgets": "wap_shopmax_group",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536595338795"
+            },
+            "params": {
+                "style": "",
+                "title": "",
+                "background": "",
+                "class": "",
+                "pic": {
+                    "1519798107594": {
+                        "id": "1519798107594",
+                        "link": "http:\/\/image.yijiago.com\/16\/65\/88\/4722f84bc4d2f27faa989068ef872de539c4dc56.jpg",
+                        "linktarget": "#\/member-help-detail\/3555",
+                        "linkinfo": "",
+                        "width": "100%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1519798108154": {
+                        "id": "1519798108154",
+                        "link": "http:\/\/image.yijiago.com\/2e\/00\/b1\/5a21da35e0f372b663bb5c2b3443550a07d99af8.jpg",
+                        "linktarget": "#\/member-help-detail\/3559",
+                        "linkinfo": "",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1519798108890": {
+                        "id": "1519798108890",
+                        "link": "http:\/\/image.yijiago.com\/a2\/e4\/09\/bad7f4a2cefcc377708e35e3f0cc698f585dbbf0.jpg",
+                        "linktarget": "#\/member-help-detail\/3565",
+                        "linkinfo": "",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1519798110298": {
+                        "id": "1519798110298",
+                        "link": "http:\/\/image.yijiago.com\/94\/09\/2a\/2cf1a8c10f5143d424eb5ed0bc3ed2590f447345.jpg",
+                        "linktarget": "#\/member-help-detail\/3573",
+                        "linkinfo": "",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29508",
+                "widgets": "wap_shopmax_group",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536595338795"
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_group",
+            "setting": {
+                "style": "",
+                "title": "",
+                "background": "",
+                "class": "",
+                "pic": {
+                    "1522119761934": {
+                        "id": "1522119761934",
+                        "link": "http:\/\/image.yijiago.com\/5c\/a3\/9a\/855580aa9cfa09829af983792c0734949a0151e0.jpg",
+                        "linktarget": "#\/member-help-detail\/3571",
+                        "linkinfo": "1",
+                        "width": "100%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1522119762893": {
+                        "id": "1522119762893",
+                        "link": "http:\/\/image.yijiago.com\/54\/2b\/62\/7f92921118c3a7cb0954e2120ed5371a548fe396.jpg",
+                        "linktarget": "http:\/\/util.yijiago.com:8097\/effectivePlatform\/page-type\/new1.html?page_id=72",
+                        "linkinfo": "2",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1522119764148": {
+                        "id": "1522119764148",
+                        "link": "http:\/\/image.yijiago.com\/7e\/7f\/be\/591c4fbaaee1768287bd8cb72070b699955cb68e.jpg",
+                        "linktarget": "#\/member-help-detail\/3567",
+                        "linkinfo": "3",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1522119764797": {
+                        "id": "1522119764797",
+                        "link": "http:\/\/image.yijiago.com\/a4\/c9\/53\/cdc174a93ff50d8fd8ea5dcaa15dd2ec07f2e7c9.jpg",
+                        "linktarget": "#\/member-help-detail\/3578",
+                        "linkinfo": "4",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1522119765365": {
+                        "id": "1522119765365",
+                        "link": "http:\/\/image.yijiago.com\/ae\/2d\/5a\/def883ab23da6db8382b765b3e47ec1cec7fa72b.jpg",
+                        "linktarget": "#\/goods-list?n=%E7%81%AB%E7%81%AB%E5%85%94",
+                        "linkinfo": "5",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1524124467891": {
+                        "id": "1524124467891",
+                        "link": "http:\/\/image.yijiago.com\/0e\/a4\/02\/53b5a9b3c2e4dcc42d60864c115a1651b8297109.jpg",
+                        "linktarget": "#\/goods-list?n=%E6%A2%A6%E5%B9%BB%E9%A9%AC",
+                        "linkinfo": "6",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1524124468642": {
+                        "id": "1524124468642",
+                        "link": "http:\/\/image.yijiago.com\/2f\/27\/3c\/9a26b6fd5fe9eafd3fc13e50458417f786623521.jpg",
+                        "linktarget": "#\/shopcenter-search\/38?n=%E5%A5%BD%E5%A5%87",
+                        "linkinfo": "7",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1531793915956": {
+                        "id": "1531793915956",
+                        "link": "http:\/\/image.yijiago.com\/95\/4c\/55\/f969ecf370a696af78512f7350cabe4d302b8e94.jpg",
+                        "linktarget": "#\/promotion-item\/3401",
+                        "linkinfo": "8",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29509",
+                "widgets": "wap_shopmax_group",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536567050354"
+            },
+            "params": {
+                "style": "",
+                "title": "",
+                "background": "",
+                "class": "",
+                "pic": {
+                    
+                    "1522119762893": {
+                        "id": "1522119762893",
+                        "link": "http:\/\/image.yijiago.com\/54\/2b\/62\/7f92921118c3a7cb0954e2120ed5371a548fe396.jpg",
+                        "linktarget": "http:\/\/util.yijiago.com:8097\/effectivePlatform\/page-type\/new1.html?page_id=72",
+                        "linkinfo": "2",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1522119764148": {
+                        "id": "1522119764148",
+                        "link": "http:\/\/image.yijiago.com\/7e\/7f\/be\/591c4fbaaee1768287bd8cb72070b699955cb68e.jpg",
+                        "linktarget": "#\/member-help-detail\/3567",
+                        "linkinfo": "3",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1522119764797": {
+                        "id": "1522119764797",
+                        "link": "http:\/\/image.yijiago.com\/a4\/c9\/53\/cdc174a93ff50d8fd8ea5dcaa15dd2ec07f2e7c9.jpg",
+                        "linktarget": "#\/member-help-detail\/3578",
+                        "linkinfo": "4",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1522119765365": {
+                        "id": "1522119765365",
+                        "link": "http:\/\/image.yijiago.com\/ae\/2d\/5a\/def883ab23da6db8382b765b3e47ec1cec7fa72b.jpg",
+                        "linktarget": "#\/goods-list?n=%E7%81%AB%E7%81%AB%E5%85%94",
+                        "linkinfo": "5",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1524124467891": {
+                        "id": "1524124467891",
+                        "link": "http:\/\/image.yijiago.com\/0e\/a4\/02\/53b5a9b3c2e4dcc42d60864c115a1651b8297109.jpg",
+                        "linktarget": "#\/goods-list?n=%E6%A2%A6%E5%B9%BB%E9%A9%AC",
+                        "linkinfo": "6",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1524124468642": {
+                        "id": "1524124468642",
+                        "link": "http:\/\/image.yijiago.com\/2f\/27\/3c\/9a26b6fd5fe9eafd3fc13e50458417f786623521.jpg",
+                        "linktarget": "#\/shopcenter-search\/38?n=%E5%A5%BD%E5%A5%87",
+                        "linkinfo": "7",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1531793915956": {
+                        "id": "1531793915956",
+                        "link": "http:\/\/image.yijiago.com\/95\/4c\/55\/f969ecf370a696af78512f7350cabe4d302b8e94.jpg",
+                        "linktarget": "#\/promotion-item\/3401",
+                        "linkinfo": "8",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29509",
+                "widgets": "wap_shopmax_group",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536567050354"
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_group",
+            "setting": {
+                "style": "",
+                "title": "",
+                "background": "",
+                "class": "",
+                "pic": {
+                    "1521076884678": {
+                        "id": "1521076884678",
+                        "link": "http:\/\/image.yijiago.com\/f9\/b9\/0e\/9165a8a0cc66309f6531ddfd434a2455c1276e51.jpg",
+                        "linktarget": "#\/member-help-detail\/3581",
+                        "linkinfo": "1",
+                        "width": "100%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749407425": {
+                        "id": "1527749407425",
+                        "link": "http:\/\/image.yijiago.com\/dd\/37\/50\/ea019dafb5029f32ed8d8997af9a918cb77e731c.jpg",
+                        "linktarget": "#\/shopcenter-search\/326?n=%E7%BE%8E%E7%9A%84",
+                        "linkinfo": "2",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749407982": {
+                        "id": "1527749407982",
+                        "link": "http:\/\/image.yijiago.com\/e6\/bb\/bc\/9508388b15d223f47d952043fd6cf57569d5099f.jpg",
+                        "linktarget": "#\/promotion-item\/3399",
+                        "linkinfo": "3",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749408530": {
+                        "id": "1527749408530",
+                        "link": "http:\/\/image.yijiago.com\/76\/42\/9f\/6ea09d4842e650e4ed34b7671d00e3e5179cb7ea.jpg",
+                        "linktarget": "#\/goods-list?n=%E5%B0%8F%E7%86%8A\u0026cat_id=958",
+                        "linkinfo": "4",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749409946": {
+                        "id": "1527749409946",
+                        "link": "http:\/\/image.yijiago.com\/9e\/07\/4a\/0e6716438b567a7ebc844365fb1db056bf2b0d28.jpg",
+                        "linktarget": "#\/goods\/64252",
+                        "linkinfo": "5",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749411202": {
+                        "id": "1527749411202",
+                        "link": "http:\/\/image.yijiago.com\/a1\/71\/1a\/2a1578cb5c6efda1e9ff2bce9abbb8c42c5949c4.jpg",
+                        "linktarget": "#\/goods\/47545",
+                        "linkinfo": "6",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749412427": {
+                        "id": "1527749412427",
+                        "link": "http:\/\/image.yijiago.com\/2e\/00\/38\/1c434b4ad477f54ec900281f34af185515424a44.jpg",
+                        "linktarget": "#\/goods\/61740",
+                        "linkinfo": "7",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749413354": {
+                        "id": "1527749413354",
+                        "link": "http:\/\/image.yijiago.com\/b8\/1f\/9e\/98fa1643200ee1ee71926d8db9050cbeb6cf7a47.jpg",
+                        "linktarget": "#\/goods\/61651",
+                        "linkinfo": "8",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29510",
+                "widgets": "wap_shopmax_group",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536567071599"
+            },
+            "params": {
+                "style": "",
+                "title": "",
+                "background": "",
+                "class": "",
+                "pic": {
+                    "1521076884678": {
+                        "id": "1521076884678",
+                        "link": "http:\/\/image.yijiago.com\/f9\/b9\/0e\/9165a8a0cc66309f6531ddfd434a2455c1276e51.jpg",
+                        "linktarget": "#\/member-help-detail\/3581",
+                        "linkinfo": "1",
+                        "width": "100%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749407425": {
+                        "id": "1527749407425",
+                        "link": "http:\/\/image.yijiago.com\/dd\/37\/50\/ea019dafb5029f32ed8d8997af9a918cb77e731c.jpg",
+                        "linktarget": "#\/shopcenter-search\/326?n=%E7%BE%8E%E7%9A%84",
+                        "linkinfo": "2",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749407982": {
+                        "id": "1527749407982",
+                        "link": "http:\/\/image.yijiago.com\/e6\/bb\/bc\/9508388b15d223f47d952043fd6cf57569d5099f.jpg",
+                        "linktarget": "#\/promotion-item\/3399",
+                        "linkinfo": "3",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749408530": {
+                        "id": "1527749408530",
+                        "link": "http:\/\/image.yijiago.com\/76\/42\/9f\/6ea09d4842e650e4ed34b7671d00e3e5179cb7ea.jpg",
+                        "linktarget": "#\/goods-list?n=%E5%B0%8F%E7%86%8A\u0026cat_id=958",
+                        "linkinfo": "4",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749409946": {
+                        "id": "1527749409946",
+                        "link": "http:\/\/image.yijiago.com\/9e\/07\/4a\/0e6716438b567a7ebc844365fb1db056bf2b0d28.jpg",
+                        "linktarget": "#\/goods\/64252",
+                        "linkinfo": "5",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749411202": {
+                        "id": "1527749411202",
+                        "link": "http:\/\/image.yijiago.com\/a1\/71\/1a\/2a1578cb5c6efda1e9ff2bce9abbb8c42c5949c4.jpg",
+                        "linktarget": "#\/goods\/47545",
+                        "linkinfo": "6",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749412427": {
+                        "id": "1527749412427",
+                        "link": "http:\/\/image.yijiago.com\/2e\/00\/38\/1c434b4ad477f54ec900281f34af185515424a44.jpg",
+                        "linktarget": "#\/goods\/61740",
+                        "linkinfo": "7",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749413354": {
+                        "id": "1527749413354",
+                        "link": "http:\/\/image.yijiago.com\/b8\/1f\/9e\/98fa1643200ee1ee71926d8db9050cbeb6cf7a47.jpg",
+                        "linktarget": "#\/goods\/61651",
+                        "linkinfo": "8",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29510",
+                "widgets": "wap_shopmax_group",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536567071599"
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_group",
+            "setting": {
+                "style": "",
+                "title": "",
+                "background": "",
+                "class": "",
+                "pic": {
+                    "1527749540627": {
+                        "id": "1527749540627",
+                        "link": "http:\/\/image.yijiago.com\/74\/17\/08\/936199ab2802ad18d8ac390c60fe75bff5003410.jpg",
+                        "linktarget": "#\/shopcenter\/713",
+                        "linkinfo": "1",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749548747": {
+                        "id": "1527749548747",
+                        "link": "http:\/\/image.yijiago.com\/5b\/9d\/7b\/b1919e70a0f5fc548714812b1b367e4a57a3a9d6.jpg",
+                        "linktarget": "#\/shopcenter\/754",
+                        "linkinfo": "2",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749549290": {
+                        "id": "1527749549290",
+                        "link": "http:\/\/image.yijiago.com\/23\/0e\/4f\/59266e679d59d4ebb8478637ce60fba6f0090027.jpg",
+                        "linktarget": "#\/shopcenter\/749",
+                        "linkinfo": "3",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749549907": {
+                        "id": "1527749549907",
+                        "link": "http:\/\/image.yijiago.com\/b9\/93\/90\/0b9140ec1cfb0940ff664202ea55a2bba668f486.jpg",
+                        "linktarget": "#\/shopcenter\/732",
+                        "linkinfo": "4",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749550498": {
+                        "id": "1527749550498",
+                        "link": "http:\/\/image.yijiago.com\/3f\/8c\/06\/2d09ec367a4f98715092aaddf232ba23c9ce65be.jpg",
+                        "linktarget": "#\/shopcenter\/610",
+                        "linkinfo": "5",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749551715": {
+                        "id": "1527749551715",
+                        "link": "http:\/\/image.yijiago.com\/32\/ca\/25\/4988def4e891d53446da2505c82627b1fdcc73ce.jpg",
+                        "linktarget": "#\/shopcenter\/672",
+                        "linkinfo": "6",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749552587": {
+                        "id": "1527749552587",
+                        "link": "http:\/\/image.yijiago.com\/67\/ac\/c8\/6cbd41009395bf3372e616cc51dbe22070288dca.jpg",
+                        "linktarget": "#\/shopcenter\/611",
+                        "linkinfo": "7",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749553499": {
+                        "id": "1527749553499",
+                        "link": "http:\/\/image.yijiago.com\/34\/ad\/d5\/b0733826eae356fb2e0760043d1210e802fd4299.jpg",
+                        "linktarget": "#\/shopcenter\/668",
+                        "linkinfo": "8",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29511",
+                "widgets": "wap_shopmax_group",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536562624652"
+            },
+            "params": {
+                "style": "",
+                "title": "",
+                "background": "",
+                "class": "",
+                "pic": {
+                    "1527749540627": {
+                        "id": "1527749540627",
+                        "link": "http:\/\/image.yijiago.com\/74\/17\/08\/936199ab2802ad18d8ac390c60fe75bff5003410.jpg",
+                        "linktarget": "#\/shopcenter\/713",
+                        "linkinfo": "1",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749548747": {
+                        "id": "1527749548747",
+                        "link": "http:\/\/image.yijiago.com\/5b\/9d\/7b\/b1919e70a0f5fc548714812b1b367e4a57a3a9d6.jpg",
+                        "linktarget": "#\/shopcenter\/754",
+                        "linkinfo": "2",
+                        "width": "50%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749549290": {
+                        "id": "1527749549290",
+                        "link": "http:\/\/image.yijiago.com\/23\/0e\/4f\/59266e679d59d4ebb8478637ce60fba6f0090027.jpg",
+                        "linktarget": "#\/shopcenter\/749",
+                        "linkinfo": "3",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749549907": {
+                        "id": "1527749549907",
+                        "link": "http:\/\/image.yijiago.com\/b9\/93\/90\/0b9140ec1cfb0940ff664202ea55a2bba668f486.jpg",
+                        "linktarget": "#\/shopcenter\/732",
+                        "linkinfo": "4",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749550498": {
+                        "id": "1527749550498",
+                        "link": "http:\/\/image.yijiago.com\/3f\/8c\/06\/2d09ec367a4f98715092aaddf232ba23c9ce65be.jpg",
+                        "linktarget": "#\/shopcenter\/610",
+                        "linkinfo": "5",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749551715": {
+                        "id": "1527749551715",
+                        "link": "http:\/\/image.yijiago.com\/32\/ca\/25\/4988def4e891d53446da2505c82627b1fdcc73ce.jpg",
+                        "linktarget": "#\/shopcenter\/672",
+                        "linkinfo": "6",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749552587": {
+                        "id": "1527749552587",
+                        "link": "http:\/\/image.yijiago.com\/67\/ac\/c8\/6cbd41009395bf3372e616cc51dbe22070288dca.jpg",
+                        "linktarget": "#\/shopcenter\/611",
+                        "linkinfo": "7",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1527749553499": {
+                        "id": "1527749553499",
+                        "link": "http:\/\/image.yijiago.com\/34\/ad\/d5\/b0733826eae356fb2e0760043d1210e802fd4299.jpg",
+                        "linktarget": "#\/shopcenter\/668",
+                        "linkinfo": "8",
+                        "width": "25%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29511",
+                "widgets": "wap_shopmax_group",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536562624652"
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_group",
+            "setting": {
+                "style": "",
+                "title": "",
+                "background": "",
+                "class": "",
+                "pic": {
+                    "1512036035873": {
+                        "id": "1512036035873",
+                        "link": "http:\/\/image.yijiago.com\/09\/ac\/c9\/1f7a185d34a51e6c28b2a2b9594448e33320d1f1.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/mall.html",
+                        "linkinfo": "\u5e7f\u573a",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1512036036312": {
+                        "id": "1512036036312",
+                        "link": "http:\/\/image.yijiago.com\/10\/4a\/44\/0821cc792a19c08d8c1f2891ecf2ce5975d5666a.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/jiuJiang.html",
+                        "linkinfo": "\u5feb\u4e50\u57ce",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1512036036970": {
+                        "id": "1512036036970",
+                        "link": "http:\/\/image.yijiago.com\/68\/aa\/d3\/9b9695301c7545d6ca08a5de62e5426bc36113fc.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/outlets.html",
+                        "linkinfo": "\u5965\u83b1",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1512036037408": {
+                        "id": "1512036037408",
+                        "link": "http:\/\/image.yijiago.com\/97\/7b\/bf\/0f09b34aa0a46e72c5cee1d8a7477ab1b97c6c03.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/xiuShui.html",
+                        "linkinfo": "\u4fee\u6c34",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1512036037920": {
+                        "id": "1512036037920",
+                        "link": "http:\/\/image.yijiago.com\/4f\/cc\/a4\/f0580b118b33b7f6b123889f4cff10cc2d2969fb.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/ruiChang.html",
+                        "linkinfo": "\u745e\u660c",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1512036038739": {
+                        "id": "1512036038739",
+                        "link": "http:\/\/image.yijiago.com\/a6\/14\/01\/8b40ad75d30d11e79d173ccfc19e4fbd0235a0ea.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/wuNing.html",
+                        "linkinfo": "\u6b66\u5b81",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "27359",
+                "widgets": "wap_shopmax_group",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1527749789972"
+            },
+            "params": {
+                "style": "",
+                "title": "",
+                "background": "",
+                "class": "",
+                "pic": {
+                    "1512036035873": {
+                        "id": "1512036035873",
+                        "link": "http:\/\/image.yijiago.com\/09\/ac\/c9\/1f7a185d34a51e6c28b2a2b9594448e33320d1f1.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/mall.html",
+                        "linkinfo": "\u5e7f\u573a",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1512036036312": {
+                        "id": "1512036036312",
+                        "link": "http:\/\/image.yijiago.com\/10\/4a\/44\/0821cc792a19c08d8c1f2891ecf2ce5975d5666a.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/jiuJiang.html",
+                        "linkinfo": "\u5feb\u4e50\u57ce",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1512036036970": {
+                        "id": "1512036036970",
+                        "link": "http:\/\/image.yijiago.com\/68\/aa\/d3\/9b9695301c7545d6ca08a5de62e5426bc36113fc.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/outlets.html",
+                        "linkinfo": "\u5965\u83b1",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1512036037408": {
+                        "id": "1512036037408",
+                        "link": "http:\/\/image.yijiago.com\/97\/7b\/bf\/0f09b34aa0a46e72c5cee1d8a7477ab1b97c6c03.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/xiuShui.html",
+                        "linkinfo": "\u4fee\u6c34",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1512036037920": {
+                        "id": "1512036037920",
+                        "link": "http:\/\/image.yijiago.com\/4f\/cc\/a4\/f0580b118b33b7f6b123889f4cff10cc2d2969fb.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/ruiChang.html",
+                        "linkinfo": "\u745e\u660c",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    },
+                    "1512036038739": {
+                        "id": "1512036038739",
+                        "link": "http:\/\/image.yijiago.com\/a6\/14\/01\/8b40ad75d30d11e79d173ccfc19e4fbd0235a0ea.jpg",
+                        "linktarget": "http:\/\/www.yijiago.com\/promotion\/html\/wuNing.html",
+                        "linkinfo": "\u6b66\u5b81",
+                        "width": "33.3333%",
+                        "floatRight": "",
+                        "marginLeft": "",
+                        "marginTop": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "27359",
+                "widgets": "wap_shopmax_group",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1527749789972"
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_youjianhaodian",
+            "setting": {
+                "title": "\u6709\u95f4\u597d\u5e97",
+                "class": "",
+                "text": {
+                    "1508527491119": {
+                        "id": "1508527491119",
+                        "link": "http:\/\/image.yijiago.com\/97\/57\/44\/e4d09e28dbeaded033cb69f8ecc2078a95840688.jpg",
+                        "linktarget": "#\/shopcenter\/26",
+                        "bt": "3.5\u4e07\u4eba\u6b63\u5728\u901b\u5e97",
+                        "linkinfo": ""
+                    },
+                    "1508527491891": {
+                        "id": "1508527491891",
+                        "link": "http:\/\/image.yijiago.com\/a3\/d1\/11\/2e8ac823b86237d94f24debbca7cdcf078685dbf.jpg",
+                        "linktarget": "#\/shopcenter\/38",
+                        "bt": "3.2\u4e07\u4eba\u6b63\u5728\u901b\u5e97",
+                        "linkinfo": ""
+                    },
+                    "1523340089651": {
+                        "id": "1523340089651",
+                        "link": "http:\/\/image.yijiago.com\/23\/fd\/22\/09f9e15d32aae481445658fec2de841dea8cdc83.jpg",
+                        "linktarget": "#\/shopcenter\/326",
+                        "bt": "2.9\u4e07\u4eba\u6b63\u5728\u901b\u5e97",
+                        "linkinfo": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "26030",
+                "widgets": "wap_shopmax_youjianhaodian",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1523341344091"
+            },
+            "params": {
+                "title": "\u6709\u95f4\u597d\u5e97",
+                "class": "",
+                "text": {
+                    "1508527491119": {
+                        "id": "1508527491119",
+                        "link": "http:\/\/image.yijiago.com\/97\/57\/44\/e4d09e28dbeaded033cb69f8ecc2078a95840688.jpg",
+                        "linktarget": "#\/shopcenter\/26",
+                        "bt": "3.5\u4e07\u4eba\u6b63\u5728\u901b\u5e97",
+                        "linkinfo": ""
+                    },
+                    "1508527491891": {
+                        "id": "1508527491891",
+                        "link": "http:\/\/image.yijiago.com\/a3\/d1\/11\/2e8ac823b86237d94f24debbca7cdcf078685dbf.jpg",
+                        "linktarget": "#\/shopcenter\/38",
+                        "bt": "3.2\u4e07\u4eba\u6b63\u5728\u901b\u5e97",
+                        "linkinfo": ""
+                    },
+                    "1523340089651": {
+                        "id": "1523340089651",
+                        "link": "http:\/\/image.yijiago.com\/23\/fd\/22\/09f9e15d32aae481445658fec2de841dea8cdc83.jpg",
+                        "linktarget": "#\/shopcenter\/326",
+                        "bt": "2.9\u4e07\u4eba\u6b63\u5728\u901b\u5e97",
+                        "linkinfo": ""
+                    }
+                },
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "26030",
+                "widgets": "wap_shopmax_youjianhaodian",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1523341344091"
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_pic",
+            "setting": {
+                "pic": {
+                    "1": {
+                        "id": "",
+                        "logo": "http:\/\/image.yijiago.com\/08\/a8\/bf\/ea248006cc0aaa453cc9fe52b1fe167792a161d4.jpg"
+                    }
+                },
+                "link": "#\/member-help-detail\/3578",
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29513",
+                "widgets": "wap_shopmax_pic",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536564016188"
+            },
+            "params": {
+                "pic": {
+                    "1": {
+                        "id": "",
+                        "logo": "http:\/\/image.yijiago.com\/08\/a8\/bf\/ea248006cc0aaa453cc9fe52b1fe167792a161d4.jpg"
+                    }
+                },
+                "link": "#\/member-help-detail\/3578",
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29513",
+                "widgets": "wap_shopmax_pic",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536564016188"
+            }
+        },
+        {
+            "widgets_type": "wap_goods_index",
+            "setting": {
+                "texttag": "\u5546\u54c1\u63a8\u8350",
+                "more": "",
+                "one": "10",
+                "jiazai": "6",
+                "selector": "select",
+                "item_select": [
+                    "32539",
+                    "32709",
+                    "37047",
+                    "37439",
+                    "37882",
+                    "39211",
+                    "39512",
+                    "40175",
+                    "40275",
+                    "41354",
+                    "42746",
+                    "43227",
+                    "46752",
+                    "53166",
+                    "53190",
+                    "53216",
+                    "53280",
+                    "58211",
+                    "61279",
+                    "61740",
+                    "62676",
+                    "62798",
+                    "64207",
+                    "64556",
+                    "65952",
+                    "66013",
+                    "66102",
+                    "66223",
+                    "66251",
+                    "66347"
+                ],
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29503",
+                "widgets": "wap_goods_index",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536978692202"
+            },
+            "params": {
+                "texttag": "\u5546\u54c1\u63a8\u8350",
+                "more": "",
+                "one": "10",
+                "jiazai": "6",
+                "selector": "select",
+                "item_select": [
+                    "32539",
+                    "32709",
+                    "37047",
+                    "37439",
+                    "37882",
+                    "39211",
+                    "39512",
+                    "40175",
+                    "40275",
+                    "41354",
+                    "42746",
+                    "43227",
+                    "46752",
+                    "53166",
+                    "53190",
+                    "53216",
+                    "53280",
+                    "58211",
+                    "61279",
+                    "61740",
+                    "62676",
+                    "62798",
+                    "64207",
+                    "64556",
+                    "65952",
+                    "66013",
+                    "66102",
+                    "66223",
+                    "66251",
+                    "66347"
+                ],
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "29503",
+                "widgets": "wap_goods_index",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1536978692202",
+                "item": {
+                    "66347": {
+                        "item_id": 66347,
+                        "title": "#\u65b0\u54c1#\u62c9\u83f2\u65af\u6c40\u725b\u76ae\u7fc5\u8180\u5305\u5973\u58eb\u624b\u63d0\u5305",
+                        "price": "379.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/39\/0a\/7c\/1b7874d1bafcd531e06a6b322b0a20072ccef625.jpg",
+                        "mkt_price": "549.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 715,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 0,
+                        "nospec": "0",
+                        "promotion": null,
+                        "activity": []
+                    },
+                    "66251": {
+                        "item_id": 66251,
+                        "title": "Bear\/\u5c0f\u718a DBC-A06D1\u7535\u997c\u94db\u5bb6\u7528\u8584\u997c\u94db\u4e0d\u7c98\u8584\u997c\u673a",
+                        "price": "169.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/6b\/ce\/e9\/4feefba5c855ae79f9732a3c47310123997d9897.jpg",
+                        "mkt_price": "299.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 326,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 0,
+                        "nospec": "1",
+                        "sku_id": 106606,
+                        "promotion": {
+                            "3395": {
+                                "item_id": 66251,
+                                "promotion_id": 3395
+                            }
+                        },
+                        "promotiontype": {
+                            "xydiscount": true
+                        },
+                        "activity": []
+                    },
+                    "66223": {
+                        "item_id": 66223,
+                        "title": "\u706b\u706b\u5154 \u65e9\u6559\u6545\u4e8b\u673a\u53ef\u5145\u7535\u4e0b\u8f7d",
+                        "price": "188.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/32\/aa\/00\/b9e0cb0958b9e98fe0313ccc18d4a4dde7dbe0a7.jpg",
+                        "mkt_price": "576.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 38,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 0,
+                        "nospec": "0",
+                        "promotion": {
+                            "3409": {
+                                "item_id": 66223,
+                                "promotion_id": 3409
+                            }
+                        },
+                        "promotiontype": {
+                            "xydiscount": true
+                        },
+                        "activity": []
+                    },
+                    "66102": {
+                        "item_id": 66102,
+                        "title": "\u65e5\u5f0f\u60c5\u4fa3\u6761\u7eb9\u5c45\u5bb6\u4e9a\u9ebb\u62d6\u978b",
+                        "price": "16.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/20\/1f\/c4\/e728664837a636296bab0430de92ac289fe852e8.jpg",
+                        "mkt_price": "28.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 597,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 0,
+                        "nospec": "0",
+                        "promotion": null,
+                        "activity": []
+                    },
+                    "66013": {
+                        "item_id": 66013,
+                        "title": "Runningtiger\u718a\u4e66\u5305\u5b66\u751f\u51cf\u8d1f\u80cc\u5305",
+                        "price": "55.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/65\/b8\/58\/a51cce02240be8339adc4209e11f9bc5e8a73db3.jpg",
+                        "mkt_price": "69.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 715,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 0,
+                        "nospec": "1",
+                        "sku_id": 105823,
+                        "promotion": null,
+                        "activity": []
+                    },
+                    "65952": {
+                        "item_id": 65952,
+                        "title": "\u597d\u5947\u5fc3\u94bb\u88c5\u7eb8\u5c3f\u88e4\u5a74\u513f\u5e72\u723d\u900f\u6c14\u4eb2\u80a4\u7537\u5973\u5b9d\u5b9d\u901a\u7528S62*3\u5305",
+                        "price": "358.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/17\/19\/62\/695b0de803534e0e6408eace7fd31a3f62ce87eb.jpg",
+                        "mkt_price": "588.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 38,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 1,
+                        "nospec": "1",
+                        "sku_id": 105709,
+                        "promotion": null,
+                        "activity": []
+                    },
+                    "64556": {
+                        "item_id": 64556,
+                        "title": "\u7f8e\u7684\u624b\u6301\u6302\u70eb\u673a\u5bb6\u7528\u84b8\u6c7d\u71a8\u6597\u5c0f\u578b\u8ff7\u4f60\u7acb\u5f0f\u71a8\u70eb\u673aYGD20E1",
+                        "price": "269.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/1c\/4e\/3a\/34d3635d3e2b26fb0f731fdc0092495e673915a3.jpg",
+                        "mkt_price": "399.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 326,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 0,
+                        "nospec": "1",
+                        "sku_id": 103059,
+                        "promotion": {
+                            "3426": {
+                                "item_id": 64556,
+                                "promotion_id": 3426
+                            }
+                        },
+                        "activity": []
+                    },
+                    "64207": {
+                        "item_id": 64207,
+                        "title": "\u9526\u7ae5\u9ad8\u666f\u89c2\u8d85\u8f7b\u4fbf\u6298\u53e0\u624b\u63a8\u8f66",
+                        "price": "149.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/a7\/6b\/b3\/4ce7c8c02f809b078feec404f0828dcbdf006a0a.jpg",
+                        "mkt_price": "239.000",
+                        "is_freeshipment": 0,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 38,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 1,
+                        "nospec": "0",
+                        "promotion": {
+                            "3063": {
+                                "item_id": 64207,
+                                "promotion_id": 3063
+                            },
+                            "3116": {
+                                "item_id": 64207,
+                                "promotion_id": 3116
+                            },
+                            "3197": {
+                                "item_id": 64207,
+                                "promotion_id": 3197
+                            },
+                            "3281": {
+                                "item_id": 64207,
+                                "promotion_id": 3281
+                            }
+                        },
+                        "activity": []
+                    },
+                    "62798": {
+                        "item_id": 62798,
+                        "title": "\u5305\u90ae\u5e1d\u7433\u4e9a\u4e0d\u52a0\u6863\u590f\u5b63\u8d85\u8584\u4e1d\u889c10\u6761\u88c5",
+                        "price": "39.900",
+                        "image_default_id": "http:\/\/image.yijiago.com\/16\/10\/52\/250d0b4c570ae591dbd03f268f0e3dec8f099eab.jpg",
+                        "mkt_price": "58.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 405,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 1,
+                        "nospec": "0",
+                        "promotion": {
+                            "2835": {
+                                "item_id": 62798,
+                                "promotion_id": 2835
+                            },
+                            "2879": {
+                                "item_id": 62798,
+                                "promotion_id": 2879
+                            },
+                            "2880": {
+                                "item_id": 62798,
+                                "promotion_id": 2880
+                            },
+                            "2935": {
+                                "item_id": 62798,
+                                "promotion_id": 2935
+                            },
+                            "2939": {
+                                "item_id": 62798,
+                                "promotion_id": 2939
+                            },
+                            "2987": {
+                                "item_id": 62798,
+                                "promotion_id": 2987
+                            }
+                        },
+                        "activity": []
+                    },
+                    "62676": {
+                        "item_id": 62676,
+                        "title": "\u7eaf\u8272\u767e\u642d\u957f\u6b3e\u771f\u4e1d\u4e1d\u5dfe\u6c99\u6ee9\u5dfe",
+                        "price": "35.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/f5\/f4\/21\/c638d2b4568aa7c7eb1027838d0badb001caa760.jpg",
+                        "mkt_price": "168.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 697,
+                        "publish_status": "no",
+                        "recommend_status": "onrec",
+                        "sold_quantity": 0,
+                        "nospec": "0",
+                        "promotion": {
+                            "2837": {
+                                "item_id": 62676,
+                                "promotion_id": 2837
+                            },
+                            "2878": {
+                                "item_id": 62676,
+                                "promotion_id": 2878
+                            }
+                        },
+                        "activity": []
+                    },
+                    "61740": {
+                        "item_id": 61740,
+                        "title": "\u79c0\u8d1d\u661f\u65b0\u751f\u5b9d\u5b9d\u7eaf\u68c9\u8863\u670d\u4e94\u4ef6\u5957\uff08\u56e2\u56e2\u9e1f\uff09",
+                        "price": "27.900",
+                        "image_default_id": "http:\/\/image.yijiago.com\/03\/ea\/16\/1a25e3ecf2cebad45fe7e78f74dcba6028f69321.jpg",
+                        "mkt_price": "68.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 38,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 0,
+                        "nospec": "0",
+                        "promotion": null,
+                        "activity": []
+                    },
+                    "61279": {
+                        "item_id": 61279,
+                        "title": "\u63d2\u82b1\u9676\u74f7\u5c0f\u6e05\u65b0\u82b1\u74f6\u4e09\u4ef6\u5957\u88c5\u9f9f\u80cc\u53f6\u82b1\u74f6",
+                        "price": "136.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/c5\/46\/03\/6b6828f37ebee855c8a4e9421134beb51d3fec90.jpg",
+                        "mkt_price": "209.000",
+                        "is_freeshipment": 0,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 718,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 0,
+                        "nospec": "1",
+                        "sku_id": 95365,
+                        "promotion": null,
+                        "activity": []
+                    },
+                    "58211": {
+                        "item_id": 58211,
+                        "title": "\u5b89\u513f\u4e50\u5a74\u513f\u8d85\u80fd\u5438\u7eb8\u5c3f\u88e4L\u780146\u7247*4\u5305",
+                        "price": "229.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/e1\/55\/28\/e0f9aa2a1c7939e05d54be09c7665b6f9637f5e3.jpg",
+                        "mkt_price": "499.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 38,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 3,
+                        "nospec": "1",
+                        "sku_id": 89038,
+                        "promotion": {
+                            "2628": {
+                                "item_id": 58211,
+                                "promotion_id": 2628
+                            },
+                            "2951": {
+                                "item_id": 58211,
+                                "promotion_id": 2951
+                            }
+                        },
+                        "activity": []
+                    },
+                    "53280": {
+                        "item_id": 53280,
+                        "title": "\u96c0\u5de2Nestle\u8d85\u7ea7\u80fd\u6069\u5a74\u513f\u914d\u65b9\u5976\u7c891\u6bb5800\u514b*6\u7f50\u88c5 ",
+                        "price": "1829.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/c2\/a5\/6e\/ed10880a21726c306c1541320c094319594e62df.jpg",
+                        "mkt_price": "2182.200",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 674,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 1,
+                        "nospec": "1",
+                        "sku_id": 80033,
+                        "promotion": {
+                            "2402": {
+                                "item_id": 53280,
+                                "promotion_id": 2402
+                            },
+                            "2627": {
+                                "item_id": 53280,
+                                "promotion_id": 2627
+                            },
+                            "2886": {
+                                "item_id": 53280,
+                                "promotion_id": 2886
+                            },
+                            "3168": {
+                                "item_id": 53280,
+                                "promotion_id": 3168
+                            },
+                            "3331": {
+                                "item_id": 53280,
+                                "promotion_id": 3331
+                            }
+                        },
+                        "activity": []
+                    },
+                    "53216": {
+                        "item_id": 53216,
+                        "title": "\u96c5\u57f9\u83c1\u631a\uff08\u539f\u83c1\u667a\uff09\u6709\u673a\u5a74\u513f\u914d\u65b9\u5976\u7c891\u6bb5900g*6\u7f50",
+                        "price": "1855.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/24\/42\/4c\/53110eeca2e325151f58b287cf62160042010087.jpg",
+                        "mkt_price": "2750.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 674,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 3,
+                        "nospec": "1",
+                        "sku_id": 79938,
+                        "promotion": {
+                            "3168": {
+                                "item_id": 53216,
+                                "promotion_id": 3168
+                            }
+                        },
+                        "activity": []
+                    },
+                    "53190": {
+                        "item_id": 53190,
+                        "title": "\u60e0\u6c0f\u542f\u8d4b\u5a74\u513f\u914d\u65b9\u5976\u7c891\u6bb5900g*6\u7f50",
+                        "price": "1945.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/1a\/6e\/39\/893559b7271d87052a97fb82ec8c4b77970ad363.jpg",
+                        "mkt_price": "2450.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 674,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 9,
+                        "nospec": "1",
+                        "sku_id": 79901,
+                        "promotion": {
+                            "2452": {
+                                "item_id": 53190,
+                                "promotion_id": 2452
+                            },
+                            "2466": {
+                                "item_id": 53190,
+                                "promotion_id": 2466
+                            },
+                            "2742": {
+                                "item_id": 53190,
+                                "promotion_id": 2742
+                            }
+                        },
+                        "activity": []
+                    },
+                    "53166": {
+                        "item_id": 53166,
+                        "title": "\u60e0\u6c0fS-26\u94c2\u81fb\u5065\u513f\u4e502\u6bb5\u5976\u7c89 800g*6\u7f50",
+                        "price": "1405.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/ca\/21\/5e\/e19b7e6dd417ee447f556ac5f15171b5c840b560.jpg",
+                        "mkt_price": "2136.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 674,
+                        "publish_status": "no",
+                        "recommend_status": "onrec",
+                        "sold_quantity": 2,
+                        "nospec": "1",
+                        "sku_id": 79844,
+                        "promotion": {
+                            "2452": {
+                                "item_id": 53166,
+                                "promotion_id": 2452
+                            },
+                            "2466": {
+                                "item_id": 53166,
+                                "promotion_id": 2466
+                            },
+                            "2742": {
+                                "item_id": 53166,
+                                "promotion_id": 2742
+                            }
+                        },
+                        "activity": []
+                    },
+                    "46752": {
+                        "item_id": 46752,
+                        "title": "LOZ\u7c73\u5947\/\u7c73\u59ae\u5c0f\u9897\u7c92\u79ef\u6728\u513f\u7ae5\u521b\u610f\u73a9\u5177",
+                        "price": "39.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/57\/01\/54\/e16d4f251567c9bf284bb85d0d085d15f41ef762.jpg",
+                        "mkt_price": "159.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 38,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 1,
+                        "nospec": "0",
+                        "promotion": {
+                            "2276": {
+                                "item_id": 46752,
+                                "promotion_id": 2276
+                            },
+                            "2325": {
+                                "item_id": 46752,
+                                "promotion_id": 2325
+                            },
+                            "2407": {
+                                "item_id": 46752,
+                                "promotion_id": 2407
+                            },
+                            "3118": {
+                                "item_id": 46752,
+                                "promotion_id": 3118
+                            },
+                            "3286": {
+                                "item_id": 46752,
+                                "promotion_id": 3286
+                            }
+                        },
+                        "activity": []
+                    },
+                    "43227": {
+                        "item_id": 43227,
+                        "title": "\u3010hot\u30112\u652f\u65e5\u672cDHC\u5e72\u71e5\u5bf9\u7b56\u6a44\u6984\u62a4\u5507\u818f\u5507\u90e8\u4fdd\u517b\u3010\u4fdd\u7a0e\u533a\u3011",
+                        "price": "108.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/95\/74\/f5\/0da53fa976656c4304a65f91b646f23df7a9593c.jpg",
+                        "mkt_price": "128.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 1,
+                        "is_selfshop": 0,
+                        "shop_id": 26,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 27,
+                        "nospec": "1",
+                        "sku_id": 54874,
+                        "promotion": {
+                            "2598": {
+                                "item_id": 43227,
+                                "promotion_id": 2598
+                            }
+                        },
+                        "activity": []
+                    },
+                    "42746": {
+                        "item_id": 42746,
+                        "title": "\u6fb3\u6d32Freezeframe\u773c\u971c\u53bb\u7ec6\u7eb9\u773c\u90e8\u62a4\u7406\u53bb\u773c\u888b\u9ed1\u773c\u5708\u6de1\u5316\u7ec6\u7eb915ml\u3010\u4fdd\u7a0e\u4ed3\u3011",
+                        "price": "258.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/79\/34\/03\/651580b5aae28a9a09707303879a9ba301534b78.jpg",
+                        "mkt_price": "339.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 1,
+                        "is_selfshop": 0,
+                        "shop_id": 26,
+                        "publish_status": "no",
+                        "recommend_status": "onrec",
+                        "sold_quantity": 15,
+                        "nospec": "1",
+                        "sku_id": 54106,
+                        "promotion": {
+                            "2023": {
+                                "item_id": 42746,
+                                "promotion_id": 2023
+                            }
+                        },
+                        "activity": []
+                    },
+                    "41354": {
+                        "item_id": 41354,
+                        "title": "{\u5c45\u5bb6\u5fc5\u5907}\u53a8\u623f\u5bb6\u7535Bear\/\u5c0f\u718a DDG-D20T5\u7535\u7096\u9505\u7172\u6c64bb\u716e\u7ca5\u9505\u5168\u81ea\u52a8\u71ac\u7ca5\u7d2b\u7802\u9505\u7535\u7096\u76c5",
+                        "price": "179.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/56\/c3\/5c\/3266ade66f7a080a995dd2f6bb35d62718d79424.jpg",
+                        "mkt_price": "299.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 326,
+                        "publish_status": "no",
+                        "recommend_status": "onrec",
+                        "sold_quantity": 6,
+                        "nospec": "1",
+                        "sku_id": 50695,
+                        "promotion": {
+                            "2214": {
+                                "item_id": 41354,
+                                "promotion_id": 2214
+                            },
+                            "2306": {
+                                "item_id": 41354,
+                                "promotion_id": 2306
+                            },
+                            "2388": {
+                                "item_id": 41354,
+                                "promotion_id": 2388
+                            },
+                            "2582": {
+                                "item_id": 41354,
+                                "promotion_id": 2582
+                            },
+                            "2680": {
+                                "item_id": 41354,
+                                "promotion_id": 2680
+                            },
+                            "2776": {
+                                "item_id": 41354,
+                                "promotion_id": 2776
+                            },
+                            "2832": {
+                                "item_id": 41354,
+                                "promotion_id": 2832
+                            },
+                            "2926": {
+                                "item_id": 41354,
+                                "promotion_id": 2926
+                            },
+                            "3314": {
+                                "item_id": 41354,
+                                "promotion_id": 3314
+                            },
+                            "3395": {
+                                "item_id": 41354,
+                                "promotion_id": 3395
+                            }
+                        },
+                        "promotiontype": {
+                            "xydiscount": true
+                        },
+                        "activity": []
+                    },
+                    "40275": {
+                        "item_id": 40275,
+                        "title": "\u8d1d\u4eb2\u65b0\u751f\u513f\u6807\u51c6\u53e3\u5f84\u73bb\u7483\u5976\u74f6 \u914d\u7845\u80f6\u5976\u5634 240ML",
+                        "price": "39.900",
+                        "image_default_id": "http:\/\/image.yijiago.com\/0a\/c6\/b2\/43a3283507777ddd0b8c103b25987d1800c58851.jpg",
+                        "mkt_price": "103.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 38,
+                        "publish_status": "no",
+                        "recommend_status": "onrec",
+                        "sold_quantity": 0,
+                        "nospec": "1",
+                        "sku_id": 48638,
+                        "promotion": {
+                            "1820": {
+                                "item_id": 40275,
+                                "promotion_id": 1820
+                            },
+                            "1949": {
+                                "item_id": 40275,
+                                "promotion_id": 1949
+                            },
+                            "2223": {
+                                "item_id": 40275,
+                                "promotion_id": 2223
+                            },
+                            "2274": {
+                                "item_id": 40275,
+                                "promotion_id": 2274
+                            },
+                            "2664": {
+                                "item_id": 40275,
+                                "promotion_id": 2664
+                            },
+                            "2847": {
+                                "item_id": 40275,
+                                "promotion_id": 2847
+                            },
+                            "2887": {
+                                "item_id": 40275,
+                                "promotion_id": 2887
+                            },
+                            "3029": {
+                                "item_id": 40275,
+                                "promotion_id": 3029
+                            }
+                        },
+                        "activity": []
+                    },
+                    "40175": {
+                        "item_id": 40175,
+                        "title": "\u97e9\u56fd\u83b1\u65af\u58c1spf50\u9632\u6652\u55b7\u96fe180ml\u3010\u4fdd\u7a0e\u4ed3\u3011",
+                        "price": "62.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/45\/b6\/7e\/b3104c0d3836ecc6f68169ad3e3c26ae9c05f022.jpg",
+                        "mkt_price": "82.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 1,
+                        "is_selfshop": 0,
+                        "shop_id": 26,
+                        "publish_status": "no",
+                        "recommend_status": "onrec",
+                        "sold_quantity": 49,
+                        "nospec": "1",
+                        "sku_id": 48483,
+                        "promotion": {
+                            "2023": {
+                                "item_id": 40175,
+                                "promotion_id": 2023
+                            },
+                            "3135": {
+                                "item_id": 40175,
+                                "promotion_id": 3135
+                            }
+                        },
+                        "activity": []
+                    },
+                    "39512": {
+                        "item_id": 39512,
+                        "title": "\u65e5\u672cSANTEN-FX\u53c2\u5929\u7f13\u89e3\u75b2\u52b3\u4fdd\u62a4\u89d2\u819c\u73ab\u7470\u773c\u836f\u6c34\u6ef4\u773c\u6db212ml\/\u74f6\u3010\u9999\u6e2f\u76f4\u90ae\u3011",
+                        "price": "106.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/23\/f9\/1c\/84fbb303cb3b23950f7a8ce7df47fd00b591dca3.jpg",
+                        "mkt_price": "120.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 1,
+                        "is_selfshop": 0,
+                        "shop_id": 26,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 16,
+                        "nospec": "1",
+                        "sku_id": 47584,
+                        "promotion": null,
+                        "activity": []
+                    },
+                    "39211": {
+                        "item_id": 39211,
+                        "title": "Galanz\/\u683c\u5170\u4ed5 P70F20CL-DG(B0) \u5fae\u6ce2\u708920L\u5bb6\u7528\u667a\u80fd\u5e73\u677f\u624b\u62c9\u5fae\u6ce2\u7089",
+                        "price": "439.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/b6\/39\/77\/f68c2f4c7d77f8254f6eefad784a0b3c5182637b.png",
+                        "mkt_price": "489.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 0,
+                        "is_selfshop": 0,
+                        "shop_id": 326,
+                        "publish_status": "no",
+                        "recommend_status": "onrec",
+                        "sold_quantity": 12,
+                        "nospec": "1",
+                        "sku_id": 47117,
+                        "promotion": {
+                            "1724": {
+                                "item_id": 39211,
+                                "promotion_id": 1724
+                            },
+                            "2218": {
+                                "item_id": 39211,
+                                "promotion_id": 2218
+                            },
+                            "2300": {
+                                "item_id": 39211,
+                                "promotion_id": 2300
+                            },
+                            "2437": {
+                                "item_id": 39211,
+                                "promotion_id": 2437
+                            },
+                            "2469": {
+                                "item_id": 39211,
+                                "promotion_id": 2469
+                            },
+                            "2559": {
+                                "item_id": 39211,
+                                "promotion_id": 2559
+                            },
+                            "2655": {
+                                "item_id": 39211,
+                                "promotion_id": 2655
+                            },
+                            "2678": {
+                                "item_id": 39211,
+                                "promotion_id": 2678
+                            },
+                            "2872": {
+                                "item_id": 39211,
+                                "promotion_id": 2872
+                            },
+                            "3101": {
+                                "item_id": 39211,
+                                "promotion_id": 3101
+                            },
+                            "3159": {
+                                "item_id": 39211,
+                                "promotion_id": 3159
+                            },
+                            "3186": {
+                                "item_id": 39211,
+                                "promotion_id": 3186
+                            }
+                        },
+                        "activity": []
+                    },
+                    "37882": {
+                        "item_id": 37882,
+                        "title": "\u97e9\u56fd\u6625\u96e8\u9762\u819cpaparecipe\u8702\u871c\u4fdd\u6e7f\u8865\u6c34\u9762\u819c\u8d3410\u7247\u9ec4\u8272\u3010\u4fdd\u7a0e\u4ed3\u3011",
+                        "price": "92.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/2c\/b6\/6e\/d52d2ccd8fde5c0f62b8a2b9066dfbc93f73d881.jpg",
+                        "mkt_price": "130.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 1,
+                        "is_selfshop": 0,
+                        "shop_id": 26,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 32,
+                        "nospec": "1",
+                        "sku_id": 55203,
+                        "promotion": {
+                            "1647": {
+                                "item_id": 37882,
+                                "promotion_id": 1647
+                            },
+                            "1674": {
+                                "item_id": 37882,
+                                "promotion_id": 1674
+                            },
+                            "2023": {
+                                "item_id": 37882,
+                                "promotion_id": 2023
+                            },
+                            "2648": {
+                                "item_id": 37882,
+                                "promotion_id": 2648
+                            }
+                        },
+                        "activity": []
+                    },
+                    "37439": {
+                        "item_id": 37439,
+                        "title": "\u65e5\u672cKUMANO\u718a\u91ce\u6cb9\u8102\u65e0\u7845\u9a6c\u6cb9\u6d17\u53d1\u6c34600ml\u3010\u4fdd\u7a0e\u4ed3\u3011",
+                        "price": "58.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/46\/5a\/28\/e103c452b02abd17c485b31c966cebbce51dd147.jpg",
+                        "mkt_price": "75.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 1,
+                        "is_selfshop": 0,
+                        "shop_id": 26,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 46,
+                        "nospec": "1",
+                        "sku_id": 43888,
+                        "promotion": {
+                            "1647": {
+                                "item_id": 37439,
+                                "promotion_id": 1647
+                            },
+                            "2647": {
+                                "item_id": 37439,
+                                "promotion_id": 2647
+                            }
+                        },
+                        "activity": []
+                    },
+                    "37047": {
+                        "item_id": 37047,
+                        "title": "\u6fb3\u6d32Swisse\u6d3b\u529b\u80f6\u539f\u86cb\u767d\u6db2\u5929\u7136\u8840\u6a59\u7cbe\u534e500ml\u3010\u9999\u6e2f\u76f4\u90ae\u3011",
+                        "price": "145.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/97\/54\/59\/056a0a98afabb7b563efce4eadcf8f80e9acf823.jpg",
+                        "mkt_price": "182.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 1,
+                        "is_selfshop": 0,
+                        "shop_id": 26,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 15,
+                        "nospec": "1",
+                        "sku_id": 54639,
+                        "promotion": {
+                            "1643": {
+                                "item_id": 37047,
+                                "promotion_id": 1643
+                            },
+                            "1670": {
+                                "item_id": 37047,
+                                "promotion_id": 1670
+                            },
+                            "2024": {
+                                "item_id": 37047,
+                                "promotion_id": 2024
+                            },
+                            "2338": {
+                                "item_id": 37047,
+                                "promotion_id": 2338
+                            },
+                            "2460": {
+                                "item_id": 37047,
+                                "promotion_id": 2460
+                            },
+                            "2666": {
+                                "item_id": 37047,
+                                "promotion_id": 2666
+                            }
+                        },
+                        "activity": []
+                    },
+                    "32709": {
+                        "item_id": 32709,
+                        "title": "\u6fb3\u5927\u5229\u4e9aSwisse\u6708\u89c1\u8349\u6cb9\u8f6f\u80f6\u56ca200\u7c92\uff08\u6fb3\u6d32\u7248\u672c\uff09\u3010\u4fdd\u7a0e\u4ed3\u3011",
+                        "price": "145.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/23\/22\/3f\/97c95281ab5f9f4c501691544c99e75be8a74527.jpg",
+                        "mkt_price": "205.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 1,
+                        "is_selfshop": 0,
+                        "shop_id": 26,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 14,
+                        "nospec": "1",
+                        "sku_id": 36673,
+                        "promotion": {
+                            "1643": {
+                                "item_id": 32709,
+                                "promotion_id": 1643
+                            },
+                            "1670": {
+                                "item_id": 32709,
+                                "promotion_id": 1670
+                            },
+                            "2024": {
+                                "item_id": 32709,
+                                "promotion_id": 2024
+                            },
+                            "2338": {
+                                "item_id": 32709,
+                                "promotion_id": 2338
+                            },
+                            "2460": {
+                                "item_id": 32709,
+                                "promotion_id": 2460
+                            },
+                            "2666": {
+                                "item_id": 32709,
+                                "promotion_id": 2666
+                            },
+                            "2744": {
+                                "item_id": 32709,
+                                "promotion_id": 2744
+                            },
+                            "2784": {
+                                "item_id": 32709,
+                                "promotion_id": 2784
+                            },
+                            "3210": {
+                                "item_id": 32709,
+                                "promotion_id": 3210
+                            },
+                            "3219": {
+                                "item_id": 32709,
+                                "promotion_id": 3219
+                            },
+                            "3309": {
+                                "item_id": 32709,
+                                "promotion_id": 3309
+                            }
+                        },
+                        "activity": []
+                    },
+                    "32539": {
+                        "item_id": 32539,
+                        "title": "\u97e9\u56fd\u5170\u829d\u96ea\u7eb1\u9694\u79bb60#30ml\u7eff\u8272\u514d\u7a0e\u5e97\u7248\u3010\u4fdd\u7a0e\u533a\u3011",
+                        "price": "164.000",
+                        "image_default_id": "http:\/\/image.yijiago.com\/34\/df\/10\/e86e1cf226e655dcce02071ea61d98e021c65a8d.jpg",
+                        "mkt_price": "213.000",
+                        "is_freeshipment": 1,
+                        "is_oversea": 1,
+                        "is_selfshop": 0,
+                        "shop_id": 26,
+                        "publish_status": "no",
+                        "recommend_status": "notrec",
+                        "sold_quantity": 19,
+                        "nospec": "1",
+                        "sku_id": 36485,
+                        "promotion": {
+                            "1647": {
+                                "item_id": 32539,
+                                "promotion_id": 1647
+                            },
+                            "1674": {
+                                "item_id": 32539,
+                                "promotion_id": 1674
+                            },
+                            "2023": {
+                                "item_id": 32539,
+                                "promotion_id": 2023
+                            },
+                            "2339": {
+                                "item_id": 32539,
+                                "promotion_id": 2339
+                            }
+                        },
+                        "activity": []
+                    }
+                },
+                "defaultImg": null
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_tel",
+            "setting": {
+                "tel": "4006280792",
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "insert_widget",
+                "widgets": "wap_shopmax_tel",
+                "domid": "1508528045051.5718",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall"
+            },
+            "params": {
+                "tel": "4006280792",
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "insert_widget",
+                "widgets": "wap_shopmax_tel",
+                "domid": "1508528045051.5718",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall"
+            }
+        },
+        {
+            "widgets_type": "wap_shopmax_popup",
+            "setting": {
+                "pic": "",
+                "link": "",
+                "pic2": "",
+                "link2": "",
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "23701",
+                "widgets": "wap_shopmax_popup",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1517620578604"
+            },
+            "params": {
+                "pic": "",
+                "link": "",
+                "pic2": "",
+                "link2": "",
+                "app": "site",
+                "ctl": "admin_theme_widget",
+                "act": "save_widget",
+                "widgets_id": "23701",
+                "widgets": "wap_shopmax_popup",
+                "widgets_app": "",
+                "widgets_theme": "app2mall",
+                "theme": "app2mall",
+                "domid": "1517620578604"
+            }
+        }
+    ]
+}

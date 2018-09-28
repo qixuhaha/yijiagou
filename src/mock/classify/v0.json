@@ -1,0 +1,65 @@
+{
+    "ret":true,
+    "shopList":[
+{
+           "title":"推荐分类 ",
+            "data": [
+        
+            {
+                "cat_id": 395,
+                "icon": "http:\/\/image.yijiago.com\/88\/74\/44\/d311b6c5266d486955ac2187a54bd0cfa0f26e97.jpg",
+                "text": "\u7c73\u7c7b",
+                "is_ser": 0
+            },
+            {
+                "cat_id": 394,
+                "icon": "http:\/\/image.yijiago.com\/1e\/56\/ee\/cc5608272da411d725ad4dc8ab05fd613fbb1fc4.jpg",
+                "text": "\u98df\u7528\u6cb9",
+                "is_ser": 0
+            },
+            {
+                "cat_id": 540,
+                "icon": "http:\/\/image.yijiago.com\/dc\/66\/69\/0debfe88dc662b57fa4fd248701aedb7830b248a.jpg",
+                "text": "\u56fd\u4ea7\u6c34\u679c",
+                "is_ser": 0
+            },
+            {
+                "cat_id": 163,
+                "icon": "http:\/\/image.yijiago.com\/f9\/ca\/9a\/9d64ed85157ea3fda60cec70bbf2db6fda66ec07.jpg",
+                "text": "\u5564\u9152",
+                "is_ser": 0
+            },
+            {
+                "cat_id": 168,
+                "icon": "http:\/\/image.yijiago.com\/28\/7b\/1b\/326d780dc05fc695263dc4fb8a8adb10818a783e.jpg",
+                "text": "\u996e\u7528\u6c34",
+                "is_ser": 0
+            },
+            {
+                "cat_id": 825,
+                "icon": "http:\/\/image.yijiago.com\/51\/b9\/93\/d1aef082d1d7a0c4b417910e452ceccccaa8a9c4.jpg",
+                "text": "\u4f4e\u6e29\u9178\u5976",
+                "is_ser": 0
+            },
+            {
+                "cat_id": 865,
+                "icon": "http:\/\/image.yijiago.com\/97\/94\/09\/c5a394f28405c16d914297a88fee6f21593d613f.jpg",
+                "text": "\u9a71\u868a\u9a71\u866b",
+                "is_ser": 0
+            },
+            {
+                "cat_id": 206,
+                "icon": "http:\/\/www.yijiago.com\/images\/f1\/a2\/d6\/1bb69afcd10795728a877caef91e22b7983722c5.jpg",
+                "text": "\u6e05\u6d01\u6c90\u6d74",
+                "is_ser": 0
+            },
+            {
+                "cat_id": 340,
+                "icon": "http:\/\/image.yijiago.com\/99\/db\/fe\/cdfd348c2d520f3d1e54fc815d80bf18edbf90ce.jpg",
+                "text": "\u6d17\u8863\u6db2\/\u8863\u9886\u51c0",
+                "is_ser": 0
+            }
+        ]  
+}
+    ]
+}

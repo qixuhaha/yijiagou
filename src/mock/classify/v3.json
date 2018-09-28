@@ -1,0 +1,296 @@
+{
+    "ret":true,
+    "shopList":[
+    {
+      "title":"水果",
+      "data": [
+          {
+                    "cat_id": 394, 
+                    "parent_id": 393,
+                    "cat_path": ",391,393,",
+                    "order_sort": 1,                  
+                    "level": "3",
+                    "text": "\u98df\u7528\u6cb9",                   
+                    "icon": "http:\/\/image.yijiago.com\/1e\/56\/ee\/cc5608272da411d725ad4dc8ab05fd613fbb1fc4.jpg",
+                    "is_show": 1,
+                    "is_ser": 0,
+                    "is_oversea": 0
+                },
+           {
+                    "cat_id": 395,
+                    "parent_id": 393,
+                    "cat_path": ",391,393,",
+                    "order_sort": 1,
+                    "level": "3",
+                    "text": "\u7c73\u7c7b",
+                    "child_count": 0,
+                    "icon": "http:\/\/image.yijiago.com\/88\/74\/44\/d311b6c5266d486955ac2187a54bd0cfa0f26e97.jpg",
+                    "is_show": 1,
+                    "is_ser": 0,
+                    "is_oversea": 0
+                },
+             {
+                    "cat_id": 722,
+                    "parent_id": 393,
+                    "cat_path": ",391,393,",
+                    "order_sort": 2,
+                    "level": "3",
+                    "text": "\u6742\u7cae",
+                    "child_count": 0,
+                    "icon": "http:\/\/image.yijiago.com\/dd\/d3\/54\/b3cecdf6226a0562b9dbfe5babfb112505a5af51.jpg",
+                    "is_show": 1,
+                    "is_ser": 0,
+                    "is_oversea": 0
+                },
+           {
+                    "cat_id": 397,
+                    "parent_id": 393,
+                    "cat_path": ",391,393,",
+                    "order_sort": 3,
+                    "level": "3",
+                    "text": "\u9762",
+                    "child_count": 0,
+                    "icon": "http:\/\/image.yijiago.com\/6c\/48\/e7\/b3ab3fb8e8914aebee8a062fd53f5656de3d831a.jpg",
+                    "is_show": 1,
+                    "is_ser": 0,
+                    "is_oversea": 0
+                },
+             {
+                    "cat_id": 396,
+                    "parent_id": 393,
+                    "cat_path": ",391,393,",
+                    "order_sort": 4,
+                    "level": "3",
+                    "text": "\u9762\u7c89\/\u9175\u6bcd",
+                    "child_count": 0,
+                    "icon": "http:\/\/image.yijiago.com\/c0\/e5\/4a\/7d7cd85f59a74af8dce2101e8a0c3e7c0e149a24.jpg",
+                    "is_show": 1,
+                    "is_ser": 0,
+                    "is_oversea": 0
+                }
+           
+        ]
+    }   ,
+    {
+        "title":"猪肉",
+        "data":[
+           
+            {
+                "cat_id": 696,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 2,
+                "level": "3",
+                "text": "\u6599\u9152\/\u5364\u6c41",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/ed\/6a\/ba\/e6b5cde6efbcb28800f2e7f1dfa86df448677208.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 401,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 3,
+                "level": "3",
+                "text": "\u76d0\/\u7cd6",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/d7\/73\/d7\/99d693b73f64a37e25ef0cf1a6a92f804b768d6f.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 688,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 4,
+                "level": "3",
+                "text": "\u5473\u7cbe\/\u9e21\u7cbe",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/80\/ba\/6e\/3f27971331191ff25883da182b0618889467e04a.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 692,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 5,
+                "level": "3",
+                "text": "\u8c03\u5473\u7c89\/\u6599",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/48\/f8\/e8\/347c60b2d3f7344f818b42392f4519613284e31f.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 689,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 6,
+                "level": "3",
+                "text": "\u751f\u7c89\/\u5ae9\u8089\u7c89",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/6a\/f5\/f1\/38cfcdf1be3c8f464441947cc94558340913aa82.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 690,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 7,
+                "level": "3",
+                "text": "\u8150\u4e73",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/84\/d4\/15\/6e4c35d6002569969a195ff5d1c6f772b4a42312.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 691,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 8,
+                "level": "3",
+                "text": "\u679c\u9171",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/fa\/33\/68\/2d61a763f9e2e4511d65013eae3342de7cbc8b73.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 686,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 10,
+                "level": "3",
+                "text": "\u918b",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/1e\/75\/d5\/882eb64d6d81b2ef55c5a7456c64854f2c8509f6.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 693,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 10,
+                "level": "3",
+                "text": "\u8c03\u5473\u9171\/\u8c46\u9f13",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/80\/ec\/89\/27f615d3d53440630ef84714a5051cfd777ee113.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 687,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 12,
+                "level": "3",
+                "text": "\u9171\u83dc",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/77\/29\/ea\/f83e8e17018d85a4102b109563eeace6daeec204.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 695,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 12,
+                "level": "3",
+                "text": "\u9ebb\u6cb9\/\u8fa3\u6cb9",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/21\/20\/64\/4c0ca4941bffada9d0e5ee793e6d5e8258fced96.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            },
+            {
+                "cat_id": 404,
+                "parent_id": 400,
+                "cat_path": ",391,400,",
+                "order_sort": 13,
+                "level": "3",
+                "text": "\u706b\u9505\u6599",
+                "child_count": 0,
+                "icon": "http:\/\/image.yijiago.com\/c5\/0c\/46\/41760567c1925dd3295fc2bdeb0d4705d11adc67.jpg",
+                "is_show": 1,
+                "is_ser": 0,
+                "is_oversea": 0
+            }
+        ]
+    },
+    {
+        "title":"冷藏食品",
+        "data": [
+           
+             {
+                      "cat_id": 395,
+                      "parent_id": 393,
+                      "cat_path": ",391,393,",
+                      "order_sort": 1,
+                      "level": "3",
+                      "text": "\u7c73\u7c7b",
+                      "child_count": 0,
+                      "icon": "http:\/\/image.yijiago.com\/88\/74\/44\/d311b6c5266d486955ac2187a54bd0cfa0f26e97.jpg",
+                      "is_show": 1,
+                      "is_ser": 0,
+                      "is_oversea": 0
+            },
+               {
+                      "cat_id": 722,
+                      "parent_id": 393,
+                      "cat_path": ",391,393,",
+                      "order_sort": 2,
+                      "level": "3",
+                      "text": "\u6742\u7cae",
+                      "child_count": 0,
+                      "icon": "http:\/\/image.yijiago.com\/dd\/d3\/54\/b3cecdf6226a0562b9dbfe5babfb112505a5af51.jpg",
+                      "is_show": 1,
+                      "is_ser": 0,
+                      "is_oversea": 0
+                  },
+             {
+                      "cat_id": 397,
+                      "parent_id": 393,
+                      "cat_path": ",391,393,",
+                      "order_sort": 3,
+                      "level": "3",
+                      "text": "\u9762",
+                      "child_count": 0,
+                      "icon": "http:\/\/image.yijiago.com\/6c\/48\/e7\/b3ab3fb8e8914aebee8a062fd53f5656de3d831a.jpg",
+                      "is_show": 1,
+                      "is_ser": 0,
+                      "is_oversea": 0
+            },
+            {
+                      "cat_id": 396,
+                      "parent_id": 393,
+                      "cat_path": ",391,393,",
+                      "order_sort": 4,
+                      "level": "3",
+                      "text": "\u9762\u7c89\/\u9175\u6bcd",
+                      "child_count": 0,
+                      "icon": "http:\/\/image.yijiago.com\/c0\/e5\/4a\/7d7cd85f59a74af8dce2101e8a0c3e7c0e149a24.jpg",
+                      "is_show": 1,
+                      "is_ser": 0,
+                      "is_oversea": 0
+           }
+             
+          ]
+      }   
+    ]
+}

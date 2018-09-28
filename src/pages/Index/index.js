@@ -1,5 +1,6 @@
 import React,{Component} from "react"
 import { TabBar } from 'antd-mobile';
+// import {Switch,route} from "react-router-dom"
 import home from "../../mock/svg/home.svg"
 import homeActive from "../../mock/svg/home-active.svg"
 import type from "../../mock/svg/class.svg"
@@ -9,10 +10,12 @@ import carActive from "../../mock/svg/car-active.svg"
 import my from "../../mock/svg/my.svg"
 import myActive from "../../mock/svg/my-active.svg"
 import MyPage from "../my/index"
-// import Detail from "../detail/index"
-import Home from "../Home/index"
-// import {BrowserRouter as Router,Route,Switch} from "react-router-dom" 
-export default class My extends Component{
+import Detail from "../detail/index"
+import Home from "../home/index"
+import {Classify} from "../classify/index"
+import {Route,Switch} from "react-router-dom"
+import Demo  from "../listpage/index" 
+ class Index extends Component{
     constructor(props) {
         super(props);
         this.state = {
@@ -52,9 +55,14 @@ export default class My extends Component{
               });
             }}
           >
-           <Home></Home>
+          {/* <Switch> */}
+            <Home/>
+            {/* <Route path="/" exact component={Home}></Route> */}
+            {/* <Route path="/detail"component={Detail}></Route> */}
+            
+          {/* </Switch> */}
+          
           </TabBar.Item>
-
             <TabBar.Item
             title="分类"
             key="Life"
@@ -77,10 +85,10 @@ export default class My extends Component{
               });
             }}
           >
-          <div>分类</div>
+          <Classify/>
           </TabBar.Item>
           <TabBar.Item
-            title="购物车"
+            title="热卖商品"
             key="Life"
             icon={<div style={{
               width: '22px',
@@ -101,7 +109,7 @@ export default class My extends Component{
               });
             }}
           >
-          <div>购物车</div>
+          <Demo/>
           </TabBar.Item>
           <TabBar.Item
             title="我的易佳"
@@ -131,3 +139,4 @@ export default class My extends Component{
         )
     }
 }
+export default Index

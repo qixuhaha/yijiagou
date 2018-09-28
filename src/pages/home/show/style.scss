@@ -1,0 +1,48 @@
+.imgBox{
+    width: 100%;
+    overflow: hidden;
+    li{
+        width: 100%;
+        list-style: none;
+    }
+    .img_banner{
+        img{
+            width: 100%;
+            margin-top: .05rem;
+        }
+    }
+    .img_split{
+        span{
+            display: block;
+            float: left;
+            width: 50%;
+            p{
+                width: 100%;
+                img{
+                    width: 50%;
+                    margin-top: 0;
+                }
+            }
+            img{
+                width: 100%;
+            }
+        }
+    }
+    .img_four{
+        img{
+            float: left;
+            width: 25%;
+        }
+    }
+    .img_three{
+        p{
+            width: 100%;
+            
+            img{
+                float: left;
+                width: 33.33%;
+                margin-top: .01rem;
+            }
+        }
+    }
+}

@@ -1,0 +1,245 @@
+.search{
+    overflow:hidden;
+    z-index:999;
+    width:100%;
+    // position:relative;
+    .pull{
+        position:absolute;
+        top:78px;
+        // left:10px;
+        width:100%;
+        z-index:1009990;
+        background:#fff;
+        p{
+            margin-left: .3rem;
+            padding: 0;
+            color: #515151;
+            height: .3rem;
+            line-height: .3rem;
+            font-size: .12rem;
+            position: relative;
+            font-size: .14rem;
+            border-bottom:.01rem solid #515151;
+        }
+    }
+    .nav-bar{
+        height:.48rem;
+        background:#fff;
+        list-style:none;
+        .left{
+            width:.34rem;
+            position:absolute;
+            left:0;
+            top:0;
+            height:.48rem;
+            line-height:.48rem;
+            vertical-align: middle;
+            span{
+                display:block;
+                padding-left:.1rem;
+                text-decoration:none;
+                font-weight:700;
+                img{
+                    width:.21rem;
+                    height:.21rem;
+                }
+            }
+        }
+        .center{
+            position:relative;
+            margin-left:.385rem;
+            margin-right:.485rem;
+            height:.48rem;
+            line-height:.48rem;
+            vertical-align:middle;
+            span{
+                display:inline-block;
+                padding-left:.36rem;
+                width:100%;
+                height:.275rem;
+                line-height:.275rem;
+                font-size:.13rem;
+                color:#a0a0a0;
+                text-align:left;
+                background:#e4e4e4;
+                border:0 none;
+                border-radius:.035rem;
+            }
+           .i1{
+                position:absolute;
+                left:.1rem;
+                display:inline-block;
+                width:.17rem;
+                height:.175rem;
+                // top:.05rem;
+                img{
+                    width:.17rem;
+                    height:.175rem; 
+                }
+            }
+            .i2{
+                position:absolute;
+                right:.05rem;
+                display:inline-block;
+                width:.16rem;
+                height:.16rem;
+                img{
+                    width:.16rem;
+                    height:.16rem;
+                }
+            }
+        }
+        .right{
+            width:.44rem;
+            position:absolute;
+            right:0;
+            top:0;
+            height:.48rem;
+            line-height:.48rem;
+            vertical-align:middle;
+            span{
+                display:inline-block;
+                padding-left:.175rem;
+                position:absolute;
+                right:.1rem;
+                img{
+                    width:.22rem;
+                    height:.22rem;
+                   
+                }
+            }     
+        }
+    }
+    .filter{
+        width:100%;
+        display:flex;
+        height:.3rem;
+        position:relative;
+        line-height:.2rem;
+        border-top:.01rem solid #bfbfbf;
+        border-bottom:.01rem solid #bfbfbf;
+        color:#515151;
+        padding:.05rem 0;
+        background:#fff;
+        font-size:.14rem;
+        
+        .item1{
+            border-left:0;
+            width:25%;
+            text-align:center;
+            position:relative;
+            color:red;
+            .iconfont{
+                position:absolute;
+                right:.04rem;
+                display:inline-block;
+                width:.13rem;
+                height:.13rem;
+                font-size:.13rem;
+                color:red;
+            }
+            
+        }
+        .item{
+            width:25%;
+            border-left:.01rem solid #d9d9d9;
+            text-align:center;
+            .iconfont{
+                 width:.13rem;
+                 height:.13rem;
+                 font-size:.13rem;
+                
+            } 
+        }
+    }
+}
+.divlist{
+    width:100%;
+    // display:flex;
+    color:#515151;
+    padding-top:.05rem;
+    img{
+        height:.99rem;
+        width:.99rem;
+        display:inline-block;
+        line-height:.99rem;
+        float:left;
+    }
+    .right{
+        height:1.02rem;
+        margin-left: 1.12rem;
+        border-bottom:.01rem solid #e2e2e3;
+        .title{  
+            height: .35rem;
+            line-height:.18rem;
+            font-size:.13rem;
+            .am-badge-text{
+                height:.15rem;
+                background:#fff;
+                border:.01rem solid #f19736;
+                border-radius:.02rem;
+                margin-right:.1rem;
+                font-size:.1rem;
+                color:#f19736;
+                line-height:.15rem;
+            }
+        }
+        .badge-list{
+            height:.3rem;
+            // padding-top: .12rem;
+            // line-height: .14rem;
+            // padding-bottom: .07rem;
+            .am-badge-text{
+                height:.15rem;
+                background:#fff;
+                border:.01rem solid #f19736;
+                border-radius:.02rem;
+                font-size:.1rem;
+                color:#f19736;
+                line-height:.15rem;
+            }
+            #badgeone{
+                border:.01rem solid purple;
+                color:purple;
+                margin-right:.05rem;
+            }
+            #badgetwo{
+                border:.01rem solid blue;
+                color:blue;
+            }
+        }
+        .price-and-cart{
+            position:relative;
+            padding-right:.1rem;
+            height:.33rem;
+            .price{
+                position:absolute;
+                top:.12rem;
+                width:42%;
+                line-height:.3rem;
+                color:#ff2832; 
+                line-height:.25rem;
+            }
+            .num{
+                width: 40%;
+                text-align: right;
+                line-height: .25rem;
+                top: .12rem;
+                font-size: .1rem;
+                position: absolute;
+                right: .525rem;
+            }
+            .iconfont{
+                margin-left: 3%;
+                border-left: .01rem solid #d9d9d9;
+                text-align: right;
+                margin-top: .02rem;
+                height: .245rem;
+                width: .33rem;
+                position: absolute;
+                top: .06rem;
+                right: .1rem;
+            }
+        }
+    }
+}

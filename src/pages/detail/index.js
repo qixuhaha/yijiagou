@@ -154,13 +154,13 @@
          </dt> 
          <dd>
         <div>
-            <img src="http://www.yijiago.com/images/d8/37/6b/3ae41129f2e7caef683467e5127eff084d68f9d5.png" class="bgImg"/> 100%正品保证
+            <img src="http://www.yijiago.com/images/d8/37/6b/3ae41129f2e7caef683467e5127eff084d68f9d5.png" class="bgImg" alt=""/> 100%正品保证
 		</div>
         <div>
-            <img src="http://www.yijiago.com/images/fb/fe/40/3dbc4778ce0e13ba3e69ad0e4d74fdc5f3a3164b.png" class="bgImg"/> 不支持无理由退货
+            <img src="http://www.yijiago.com/images/fb/fe/40/3dbc4778ce0e13ba3e69ad0e4d74fdc5f3a3164b.png" class="bgImg" alt=""/> 不支持无理由退货
 		</div>
         <div>
-            <img src="http://www.yijiago.com/images/78/1f/8c/5497fc1ae51384dc8ced2ecec9c575418b44f9ba.png" class="bgImg"/> 赠品不支持退货
+            <img src="http://www.yijiago.com/images/78/1f/8c/5497fc1ae51384dc8ced2ecec9c575418b44f9ba.png" class="bgImg" alt=""/> 赠品不支持退货
 		</div>
 								消费者告知书
 尊敬的客户：
@@ -236,9 +236,140 @@
                 </dd>
             </dl>
         </div>
-                            
-     
-       <div style={{height:"10rem"}}></div>
+        <div className="i-often-buy">
+            <div className="iob-t">
+                <span>猜你喜欢</span>
+            </div>
+            <div className="fixedBox">
+            <div className="max-buy-list">
+            <div className="swiper-slide ">
+                <a href="#/goods/34953" className="">
+                    <div class="iob-img">
+                        <img src="http://image.yijiago.com/7a/ee/e2/063ddd9d5821917d673cb12d3d5a1158839fe321.jpg" className="bgImg" alt=""/>
+                    </div> 
+                    <span className="iob-name">韩国Laneige/兰芝C21气垫BB霜SPF50+PA+++防晒滋润遮瑕含替换装15g*2【香港直邮】</span>
+                    <span className="iob-info">
+                    <s>¥</s>
+                    201.00
+                    </span>
+                </a>
+             </div>
+             <div className="swiper-slide swiper-slide-active">
+             <a href="#/goods/38637" className="">
+             <div className="iob-img">
+             <img src="http://image.yijiago.com/8b/4e/ec/0ed1f9e75d0729a09e227209026a977068deda7b.jpg" className="bgImg" alt=""/>
+             </div> 
+             <span className="iob-name">韩国Laneige兰芝雪纱丝柔防晒隔离霜#40紫色30ml/瓶【保税仓】</span>
+              <span className="iob-info">
+              <s>¥</s>
+              224.00
+              </span>
+              </a>
+              </div>
+              <div className="swiper-slide swiper-slide-next">
+              <a href="#/goods/37945" className="">
+              <div className="iob-img">
+              <img src="http://image.yijiago.com/4a/4d/aa/704a5867f352884b8708c7a6ae306f9f9b603a85.jpg" className="bgImg" alt=""/></div> <span class="iob-name">法国纪梵希GIVENCHY四宫格蜜粉1号色【香港直邮】</span> 
+              <span className="iob-info">
+              <s>¥</s>
+              450.00
+              </span>
+              </a>
+              </div>
+              <div className="swiper-slide">
+              <a href="#/goods/35263" className="">
+              <div className="iob-img">
+              <img src="http://image.yijiago.com/dd/c5/06/ef0461169542dbe6f297b816b5272111fa1f5464.jpg" className="bgImg" alt=""/>
+              </div> 
+              <span class="iob-name">Za姬芮真皙美白隔离霜妆前乳防晒保湿遮瑕防辐射35g（台版）【香港直邮】
+              </span> 
+              <span className="iob-info">
+              <s>¥</s>
+              73.00</span></a></div><div className="swiper-slide"><a href="#/goods/41001" className="">
+              <div className="iob-img">
+              <img src="http://image.yijiago.com/da/85/31/4d542f4f61ca87159bd2619e5f4032caa6b1adb9.jpg" className="bgImg" alt=""/>
+              </div> 
+              <span className="iob-name">法国圣罗兰YSL气垫B20【香港直邮】</span>
+               <span className="iob-info">
+               <s>¥</s>
+               439.00
+               </span>
+               </a>
+               </div>
+               <div className="swiper-slide">
+               <a href="#/goods/35574" className="">
+               <div className="iob-img">
+               <img src="http://image.yijiago.com/8b/3a/48/e404c4e7546244b5fca690ef21b688b3cb28d70f.jpg" class="bgImg" alt=""/>
+               </div> 
+               <span className="iob-name">韩国谜尚Missha红BB霜50ml遮瑕保湿滋润强嫩白#21亮肤色【香港直邮】
+               </span>
+                <span className="iob-info">
+                <s>¥</s>
+                83.00
+                </span>
+                </a>
+                </div>
+                <div className="swiper-slide">
+                <a href="#/goods/41365" className="">
+                <div className="iob-img">
+                <img src="http://image.yijiago.com/ff/d2/2d/9cce8ca73b36da44ef5e5915d7a605fb924d82bf.jpg" class="bgImg" alt=""/>
+                </div> 
+                <span className="iob-name">日本ROHTO乐敦cc美容液CC美白精华VC高渗透淡斑祛痘印20ml【保税区】
+                </span> 
+                <span className="iob-info">
+                <s>¥</s>
+                92.00
+                </span>
+                </a>
+                </div>
+                <div className="swiper-slide">
+                <a href="#/goods/41417" className="">
+                <div className="iob-img">
+                <img src="http://image.yijiago.com/1d/e9/04/855ddd6ef5b4a808d9da624c2d15a4a3872a9a12.jpg" className="bgImg" alt=""/></div> <span className="iob-name">法国圣罗兰YSL妍活青春粉底液BR20【香港直邮】
+                </span>
+                <span className="iob-info">
+                <s>¥</s>
+                498.00
+                </span>
+                </a>
+                </div>
+                <div className="swiper-slide">
+                <a href="#/goods/37929" className="">
+                <div className="iob-img">
+                <img src="http://image.yijiago.com/38/6f/66/ed247ed98f5eb31a9464ecae283394e9a020e588.jpg" className="bgImg" alt=""/>
+                </div> 
+                <span className="iob-name">法国纪梵希GIVENCHY四宫格蜜粉7号色【香港直邮】
+                </span> 
+                <span className="iob-info">
+                <s>¥</s>371.00
+                </span>
+                </a>
+                </div>
+                <div className="swiper-slide">
+                <a href="#/goods/31933" className="">
+                <div className="iob-img">
+                <img src="http://image.yijiago.com/15/08/5e/6a3697e7b4363a64e37651f4cce74a4a68eb716c.jpg" class="bgImg" alt=""/>
+                </div> 
+                <span className="iob-name">韩国innisfree悦诗风吟薄荷吸油纸定妆多效散粉5g【香港直邮】
+                </span> 
+                <span className="iob-info">
+                <s>¥</s>54.00
+                </span></a>
+                </div>
+                </div>
+                </div>
+        </div>
+         <div className="picList"><img src="/img/dec35a6f8875d14be1127e6808a0b76e5efe689c.png" alt=""/>
+         <img src="/img/208042537782023268645410_x.jpg" alt=""/>
+         <img src="/img/815123360141019082760540_x.jpg" alt=""/>
+         <img src="/img/141347972115228964182410_x.jpg" alt=""/>
+         <img src="/img/172471407219390305274158_x.jpg" alt=""/>
+         <img src="/img/616654106191027593273640_x.jpg" alt=""/>
+         <img src="/img/117654631113501131836098_x.jpg" alt=""/>
+         <img src="/img/149694588893429395738000_x.jpg" alt=""/>
+         <img src="/img/556957922467109052657500_x.jpg" alt=""/>
+         <img src="/img/137396291665407470261700_x.jpg" alt=""/>
+         </div>                   
  </div>
 
 

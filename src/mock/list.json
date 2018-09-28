@@ -1,0 +1,523 @@
+{
+    "errorcode": 0,
+    "msg": "",
+    "data": {
+        "haspage": 1,
+        "itemList": [
+            {
+                "sold_quantity": 705,
+                "country_image": null,
+                "item_id": 15186,
+                "shop_id": 1,
+                "modified_time": 1537362656,
+                "shop_cat_id": "125",
+                "title": "\u9053\u9053\u5168 \u538b\u69a8\u7eaf\u8475\u82b1\u7c7d\u6cb9 5L ",
+                "mkt_price": "76.800",
+                "image_default_id": "http:\/\/image.yijiago.com\/5e\/18\/87\/39d0454904203ad840e08f69674f10547ebd673d.JPG",
+                "is_selfshop": 1,
+                "spec_desc": null,
+                "is_freeshipment": 0,
+                "is_oversea": 0,
+                "point_rate": 0.2,
+                "sell_area": "",
+                "country_id": null,
+                "publish_status": "no",
+                "recommend_status": "notrec",
+                "comprehensive": 74,
+                "gid": 15186,
+                "price": "61.800",
+                "nopeisong": 0,
+                "rule_tag": [
+                    {
+                        "promotion_id": 3133,
+                        "rel_promotion_id": 838,
+                        "promotion_type": "freepostage",
+                        "shop_id": 1,
+                        "promotion_name": "\u6ee168\u5305\u90ae",
+                        "promotion_tag": "\u514d\u90ae",
+                        "promotion_desc": "\u6ee168\u5305\u90ae",
+                        "used_platform": "0",
+                        "start_time": 1529424000,
+                        "end_time": 1627747199,
+                        "created_time": 1529463273,
+                        "check_status": "agree",
+                        "valid": true
+                    },
+                    {
+                        "promotion_type": "batchprice",
+                        "promotion_name": "\u5355\u54c1\u7279\u4ef7",
+                        "promotion_tag": "\u5355\u54c1\u7279\u4ef7"
+                    }
+                ],
+                "zhenstore": 66,
+                "sku_id": 15623,
+                "activity": []
+            },
+            {
+                "sold_quantity": 521,
+                "country_image": null,
+                "item_id": 31098,
+                "shop_id": 1,
+                "modified_time": 1537362656,
+                "shop_cat_id": "125",
+                "title": "\u4e5d\u6d32 \u4e00\u7ea7\u83dc\u7c7d\u6cb9 5L",
+                "mkt_price": "56.900",
+                "image_default_id": "http:\/\/image.yijiago.com\/7d\/6c\/e0\/82bd58749966458dbe3bb7cc252bb5c88b885fdd.jpg",
+                "is_selfshop": 1,
+                "spec_desc": null,
+                "is_freeshipment": 0,
+                "is_oversea": 0,
+                "point_rate": 0.2,
+                "sell_area": "",
+                "country_id": null,
+                "publish_status": "no",
+                "recommend_status": "notrec",
+                "comprehensive": 74,
+                "gid": 31098,
+                "price": "39.900",
+                "nopeisong": 0,
+                "rule_tag": [
+                    {
+                        "promotion_id": 3133,
+                        "rel_promotion_id": 838,
+                        "promotion_type": "freepostage",
+                        "shop_id": 1,
+                        "promotion_name": "\u6ee168\u5305\u90ae",
+                        "promotion_tag": "\u514d\u90ae",
+                        "promotion_desc": "\u6ee168\u5305\u90ae",
+                        "used_platform": "0",
+                        "start_time": 1529424000,
+                        "end_time": 1627747199,
+                        "created_time": 1529463273,
+                        "check_status": "agree",
+                        "valid": true
+                    },
+                    {
+                        "promotion_type": "batchprice",
+                        "promotion_name": "\u5355\u54c1\u7279\u4ef7",
+                        "promotion_tag": "\u5355\u54c1\u7279\u4ef7"
+                    }
+                ],
+                "zhenstore": 79,
+                "sku_id": 33833,
+                "activity": []
+            },
+            {
+                "sold_quantity": 458,
+                "country_image": null,
+                "item_id": 12524,
+                "shop_id": 1,
+                "modified_time": 1537362602,
+                "shop_cat_id": "125",
+                "title": "\u9053\u9053\u5168 \u7eaf\u6b63 \u7389\u7c73\u6cb95L",
+                "mkt_price": "65.800",
+                "image_default_id": "http:\/\/image.yijiago.com\/e7\/96\/8a\/ddc376fd2ce2fd0c19219d026312ccaeacdaa958.jpg",
+                "is_selfshop": 1,
+                "spec_desc": null,
+                "is_freeshipment": 0,
+                "is_oversea": 0,
+                "point_rate": 0.2,
+                "sell_area": "",
+                "country_id": null,
+                "publish_status": "no",
+                "recommend_status": "notrec",
+                "comprehensive": 74,
+                "gid": 12524,
+                "price": "65.800",
+                "nopeisong": 0,
+                "rule_tag": [
+                    {
+                        "promotion_id": 3133,
+                        "rel_promotion_id": 838,
+                        "promotion_type": "freepostage",
+                        "shop_id": 1,
+                        "promotion_name": "\u6ee168\u5305\u90ae",
+                        "promotion_tag": "\u514d\u90ae",
+                        "promotion_desc": "\u6ee168\u5305\u90ae",
+                        "used_platform": "0",
+                        "start_time": 1529424000,
+                        "end_time": 1627747199,
+                        "created_time": 1529463273,
+                        "check_status": "agree",
+                        "valid": true
+                    }
+                ],
+                "zhenstore": 134,
+                "sku_id": 12523,
+                "activity": []
+            },
+            {
+                "sold_quantity": 370,
+                "country_image": null,
+                "item_id": 4175,
+                "shop_id": 1,
+                "modified_time": 1534262526,
+                "shop_cat_id": "125",
+                "title": "\u597d\u7231\u5bb6 \u7eaf\u9999\u83dc\u7c7d \u8c03\u548c\u6cb9 5L",
+                "mkt_price": "55.900",
+                "image_default_id": "http:\/\/image.yijiago.com\/fd\/84\/22\/bd12bd5dbfedadc6e31da68fc42a0d67769797d2.jpg",
+                "is_selfshop": 1,
+                "spec_desc": null,
+                "is_freeshipment": 0,
+                "is_oversea": 0,
+                "point_rate": 0.2,
+                "sell_area": "",
+                "country_id": null,
+                "publish_status": "no",
+                "recommend_status": "notrec",
+                "comprehensive": 74,
+                "gid": 4175,
+                "price": "55.900",
+                "nopeisong": 0,
+                "rule_tag": [
+                    {
+                        "promotion_id": 3133,
+                        "rel_promotion_id": 838,
+                        "promotion_type": "freepostage",
+                        "shop_id": 1,
+                        "promotion_name": "\u6ee168\u5305\u90ae",
+                        "promotion_tag": "\u514d\u90ae",
+                        "promotion_desc": "\u6ee168\u5305\u90ae",
+                        "used_platform": "0",
+                        "start_time": 1529424000,
+                        "end_time": 1627747199,
+                        "created_time": 1529463273,
+                        "check_status": "agree",
+                        "valid": true
+                    }
+                ],
+                "zhenstore": 49,
+                "sku_id": 4175,
+                "activity": []
+            },
+            {
+                "sold_quantity": 364,
+                "country_image": null,
+                "item_id": 4166,
+                "shop_id": 1,
+                "modified_time": 1537362602,
+                "shop_cat_id": "125",
+                "title": "\u9053\u9053\u5168 \u7269\u7406\u538b\u69a8 \u83dc\u7c7d\u6cb9 5L",
+                "mkt_price": "64.500",
+                "image_default_id": "http:\/\/image.yijiago.com\/b0\/54\/9d\/4804936148c14c2a04a82de4f0c7c2e280311a43.jpg",
+                "is_selfshop": 1,
+                "spec_desc": null,
+                "is_freeshipment": 0,
+                "is_oversea": 0,
+                "point_rate": 0.2,
+                "sell_area": "",
+                "country_id": null,
+                "publish_status": "no",
+                "recommend_status": "notrec",
+                "comprehensive": 74,
+                "gid": 4166,
+                "price": "64.500",
+                "nopeisong": 0,
+                "rule_tag": [
+                    {
+                        "promotion_id": 3133,
+                        "rel_promotion_id": 838,
+                        "promotion_type": "freepostage",
+                        "shop_id": 1,
+                        "promotion_name": "\u6ee168\u5305\u90ae",
+                        "promotion_tag": "\u514d\u90ae",
+                        "promotion_desc": "\u6ee168\u5305\u90ae",
+                        "used_platform": "0",
+                        "start_time": 1529424000,
+                        "end_time": 1627747199,
+                        "created_time": 1529463273,
+                        "check_status": "agree",
+                        "valid": true
+                    }
+                ],
+                "zhenstore": 73,
+                "sku_id": 4166,
+                "activity": []
+            },
+            {
+                "sold_quantity": 356,
+                "country_image": null,
+                "item_id": 4121,
+                "shop_id": 1,
+                "modified_time": 1537362631,
+                "shop_cat_id": "125",
+                "title": "\u591a\u529b \u8475\u82b1\u6cb9 5L",
+                "mkt_price": "86.900",
+                "image_default_id": "http:\/\/image.yijiago.com\/9c\/ab\/e8\/9b049cfc8540938c3aacd64da898a1a3e767e662.jpg",
+                "is_selfshop": 1,
+                "spec_desc": null,
+                "is_freeshipment": 0,
+                "is_oversea": 0,
+                "point_rate": 0.2,
+                "sell_area": "",
+                "country_id": null,
+                "publish_status": "no",
+                "recommend_status": "notrec",
+                "comprehensive": 74,
+                "gid": 4121,
+                "price": "86.900",
+                "nopeisong": 0,
+                "rule_tag": [
+                    {
+                        "promotion_id": 3133,
+                        "rel_promotion_id": 838,
+                        "promotion_type": "freepostage",
+                        "shop_id": 1,
+                        "promotion_name": "\u6ee168\u5305\u90ae",
+                        "promotion_tag": "\u514d\u90ae",
+                        "promotion_desc": "\u6ee168\u5305\u90ae",
+                        "used_platform": "0",
+                        "start_time": 1529424000,
+                        "end_time": 1627747199,
+                        "created_time": 1529463273,
+                        "check_status": "agree",
+                        "valid": true
+                    }
+                ],
+                "zhenstore": 25,
+                "sku_id": 4121,
+                "activity": []
+            },
+            {
+                "sold_quantity": 284,
+                "country_image": null,
+                "item_id": 31634,
+                "shop_id": 1,
+                "modified_time": 1537362663,
+                "shop_cat_id": "125",
+                "title": "\u957f\u5bff\u82b1 \u7389\u7c73\u6cb9 4.5L",
+                "mkt_price": "71.900",
+                "image_default_id": "http:\/\/image.yijiago.com\/3b\/d6\/aa\/bcb64709c353a56e8bd263a019858d05202800af.jpg",
+                "is_selfshop": 1,
+                "spec_desc": null,
+                "is_freeshipment": 0,
+                "is_oversea": 0,
+                "point_rate": 0.2,
+                "sell_area": "",
+                "country_id": null,
+                "publish_status": "no",
+                "recommend_status": "notrec",
+                "comprehensive": 74,
+                "gid": 31634,
+                "price": "52.900",
+                "nopeisong": 0,
+                "rule_tag": [
+                    {
+                        "promotion_id": 3133,
+                        "rel_promotion_id": 838,
+                        "promotion_type": "freepostage",
+                        "shop_id": 1,
+                        "promotion_name": "\u6ee168\u5305\u90ae",
+                        "promotion_tag": "\u514d\u90ae",
+                        "promotion_desc": "\u6ee168\u5305\u90ae",
+                        "used_platform": "0",
+                        "start_time": 1529424000,
+                        "end_time": 1627747199,
+                        "created_time": 1529463273,
+                        "check_status": "agree",
+                        "valid": true
+                    },
+                    {
+                        "promotion_type": "batchprice",
+                        "promotion_name": "\u5355\u54c1\u7279\u4ef7",
+                        "promotion_tag": "\u5355\u54c1\u7279\u4ef7"
+                    }
+                ],
+                "zhenstore": 45,
+                "sku_id": 35044,
+                "activity": []
+            },
+            {
+                "sold_quantity": 268,
+                "country_image": null,
+                "item_id": 4167,
+                "shop_id": 1,
+                "modified_time": 1537362602,
+                "shop_cat_id": "125",
+                "title": "\u9053\u9053\u5168 \u7eaf\u6b63 \u83dc\u7c7d\u6cb9 4.5L",
+                "mkt_price": "49.900",
+                "image_default_id": "http:\/\/image.yijiago.com\/9a\/1d\/7e\/0f5664d57dd28edd2c4480e7837fd0eb7188aabb.jpg",
+                "is_selfshop": 1,
+                "spec_desc": null,
+                "is_freeshipment": 0,
+                "is_oversea": 0,
+                "point_rate": 0.2,
+                "sell_area": "",
+                "country_id": null,
+                "publish_status": "no",
+                "recommend_status": "notrec",
+                "comprehensive": 74,
+                "gid": 4167,
+                "price": "49.900",
+                "nopeisong": 0,
+                "rule_tag": [
+                    {
+                        "promotion_id": 3133,
+                        "rel_promotion_id": 838,
+                        "promotion_type": "freepostage",
+                        "shop_id": 1,
+                        "promotion_name": "\u6ee168\u5305\u90ae",
+                        "promotion_tag": "\u514d\u90ae",
+                        "promotion_desc": "\u6ee168\u5305\u90ae",
+                        "used_platform": "0",
+                        "start_time": 1529424000,
+                        "end_time": 1627747199,
+                        "created_time": 1529463273,
+                        "check_status": "agree",
+                        "valid": true
+                    }
+                ],
+                "zhenstore": 80,
+                "sku_id": 4167,
+                "activity": []
+            }
+        ],
+        "curtab": "all",
+        "cat_id": "394",
+        "level": "3",
+        "propsList": [
+            {
+                "prop_id": 1068,
+                "prop_name": "\u79cd\u7c7b"
+            },
+            {
+                "prop_id": 1069,
+                "prop_name": "\u5de5\u827a"
+            },
+            {
+                "prop_id": 1071,
+                "prop_name": "\u89c4\u683c"
+            },
+            {
+                "prop_id": 1078,
+                "prop_name": "\u4ef7\u683c"
+            },
+            {
+                "prop_id": 2739,
+                "prop_name": "\u5305\u88c5"
+            }
+        ],
+        "propsData": {
+            "1068": [
+                {
+                    "prop_id": 1068,
+                    "prop_value_id": 4731,
+                    "prop_value": "\u8c46\u6cb9"
+                },
+                {
+                    "prop_id": 1068,
+                    "prop_value_id": 4732,
+                    "prop_value": "\u83dc\u7c7d\u6cb9"
+                },
+                {
+                    "prop_id": 1068,
+                    "prop_value_id": 4733,
+                    "prop_value": "\u82b1\u751f\u6cb9"
+                },
+                {
+                    "prop_id": 1068,
+                    "prop_value_id": 4734,
+                    "prop_value": "\u7389\u7c73\u6cb9"
+                },
+                {
+                    "prop_id": 1068,
+                    "prop_value_id": 4735,
+                    "prop_value": "\u8336\u6cb9"
+                },
+                {
+                    "prop_id": 1068,
+                    "prop_value_id": 4736,
+                    "prop_value": "\u8475\u82b1\u7c7d\u6cb9"
+                },
+                {
+                    "prop_id": 1068,
+                    "prop_value_id": 4737,
+                    "prop_value": "\u6a44\u6984\u6cb9"
+                },
+                {
+                    "prop_id": 1068,
+                    "prop_value_id": 4738,
+                    "prop_value": "\u8c03\u548c\u6cb9"
+                },
+                {
+                    "prop_id": 1068,
+                    "prop_value_id": 4739,
+                    "prop_value": "\u5176\u4ed6"
+                }
+            ],
+            "1069": [
+                {
+                    "prop_id": 1069,
+                    "prop_value_id": 4740,
+                    "prop_value": "\u538b\u69a8"
+                },
+                {
+                    "prop_id": 1069,
+                    "prop_value_id": 4741,
+                    "prop_value": "\u6d78\u51fa"
+                },
+                {
+                    "prop_id": 1069,
+                    "prop_value_id": 4742,
+                    "prop_value": "\u975e\u8f6c\u57fa\u56e0"
+                }
+            ],
+            "1071": [
+                {
+                    "prop_id": 1071,
+                    "prop_value_id": 4746,
+                    "prop_value": "1L\u4ee5\u4e0b"
+                },
+                {
+                    "prop_id": 1071,
+                    "prop_value_id": 4747,
+                    "prop_value": "1.1L-2.49L"
+                },
+                {
+                    "prop_id": 1071,
+                    "prop_value_id": 4749,
+                    "prop_value": "4L-4.99L"
+                },
+                {
+                    "prop_id": 1071,
+                    "prop_value_id": 4750,
+                    "prop_value": "5L\u4ee5\u4e0a"
+                }
+            ],
+            "1078": [
+                {
+                    "prop_id": 1078,
+                    "prop_value_id": 4772,
+                    "prop_value": "40\u5143\u4ee5\u4e0b"
+                },
+                {
+                    "prop_id": 1078,
+                    "prop_value_id": 4773,
+                    "prop_value": "40-80\u5143"
+                },
+                {
+                    "prop_id": 1078,
+                    "prop_value_id": 4774,
+                    "prop_value": "80-100\u5143"
+                },
+                {
+                    "prop_id": 1078,
+                    "prop_value_id": 4775,
+                    "prop_value": "100\u5143\u4ee5\u4e0a"
+                }
+            ],
+            "2739": [
+                {
+                    "prop_id": 2739,
+                    "prop_value_id": 12790,
+                    "prop_value": "\u74f6\u88c5"
+                },
+                {
+                    "prop_id": 2739,
+                    "prop_value_id": 12791,
+                    "prop_value": "\u6876\u88c5"
+                }
+            ]
+        }
+    }
+}

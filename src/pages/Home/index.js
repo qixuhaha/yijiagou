@@ -1,15 +1,27 @@
-import React,{Component} from "react"
-import  {withRouter} from "react-router-dom"
- class home extends  Component{
+import React, { Component } from 'react';
+import HomeTop from './Hometop/index'
+import Swiper from './swiper';
+import Show from './show';
+import GoodShop from './goodShop';
+
+class Home extends Component{
+    constructor(props){
+        super(props);
+        this.state={
+
+        }
+    }
     render(){
-        return(
+        return (
             <div>
-                <button onClick={this.entryDetail.bind(this)}>点击进入详情页面</button>
+                <HomeTop/>
+                <Swiper/>
+                <Show/>
+                <GoodShop/>
             </div>
         )
     }
-    entryDetail(){
-        this.props.history.push("/detail");
-    }
+
 }
-export default withRouter(home);
+
+export default Home

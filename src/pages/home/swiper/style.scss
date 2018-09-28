@@ -1,0 +1,238 @@
+//轮播图
+.swiperBox{
+    border-bottom: solid 1px #eee;
+    margin-top: .49rem; 
+}
+.swiperImg{
+    width: 100%;
+    background: fuchsia;
+}
+
+//九宫格
+.gridBox{
+    width: 100%;
+    background: #fff;
+    padding: 0 .05rem;
+    overflow: hidden;
+    .gridul{
+        width: 100%;
+        margin-top: .05rem;
+        li{
+            float: left;
+            width: 25%;
+            margin-bottom: .05rem;
+            p{
+                width: .7rem;
+                height: .7rem;
+                margin: 0 auto;
+                border: .01rem solid #dadada;
+                border-radius: .05rem;
+                box-shadow: 0 0 0.03rem #eee;
+                color: gray;
+                text-align: center;
+                line-height: .25rem;
+               img{
+                    width: .4rem;
+                    height: .4rem;
+                    margin-top: .05rem;
+                }
+                span{
+                    display: block;
+                    font-size: .12rem;
+                    color: #4d4d4d;
+                    width: 100%;
+                    bottom: 0;
+                } 
+            }
+            
+        }
+    }
+}
+
+//banner图
+.banner{
+    width: 100%;
+    margin-top: .05rem;
+    img{
+        width: 100%;
+    }
+}
+
+//Headline
+.headline{
+    width: 100%;
+    margin-top: .05rem;
+    background: #fff;
+    .headline_img{
+        float: left;
+        width: 1.06rem;
+        height: .35rem;
+        padding-right: .05rem;
+        img{
+            width: 1.06rem;
+            height: .35rem;
+        }
+    }
+    .v-item{
+        height: .35rem;
+        line-height: .35rem;
+        padding-left: .15rem;
+        &::before{
+            content: "";
+            display: inline-block;
+            width: .05rem;
+            height: .05rem;
+            border-radius: 50%;
+            background: #ff2832;
+            vertical-align: middle;
+            margin-right: .03rem;
+            position: relative;
+            top: -.01rem;
+        }
+    }
+}
+
+//限时抢购
+.limited_time{
+    width: 100%;
+    background: #fff;
+    margin-top: .05rem;
+    .index_title{
+        height: .37rem;
+        width: 100%;
+        line-height: .37rem;
+        border-bottom: solid 1px #eee;
+        li{
+            float: left;
+            list-style: none;
+            color: #777;
+        }
+        .clock{
+            padding-left: .1rem;
+            img{
+                width: .2rem;
+                height: .2rem;
+            }
+        }
+        .title {
+            font-size: .14rem;
+            color: #333;
+            background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAGXRFW…IbHAanIlxquRYUvlXQr/RGabtO2Vu9ZqKTxXuVI2jb/gowAMtmxXydTAwCAAAAAElFTkSuQmCC) no-repeat left .09rem;
+            background-size: .18rem;
+            display: block;
+            float: left;
+            margin-left: .1rem;
+        }
+        .booking-time {
+            // float: left;
+            margin-left: .15rem;
+            strong {
+                display: inline-block;
+                width: .18rem;
+                height: .18rem;
+                vertical-align: middle;
+                line-height: .19rem;
+                background: #333;
+                font-weight: 400;
+                font-size: .1rem;
+                color: #fff;
+                text-align: center;
+                border-radius: 3px;
+                margin: 0 .02rem;
+            }
+            .label {
+                margin: 0 2px;
+            }
+           
+        }
+        .more{
+                float: right;
+                color: #777;
+                font-size: .1rem;
+                margin-right: .2rem;
+            }
+       
+    }
+    .scrollBox{
+        width: 100%;
+        overflow: hidden;
+        overflow: scroll;
+        .scroll{
+            transition-duration: 0ms;
+            transform: translate3d(0px, 0px, 0px);
+            width: 12.33rem;
+            li{
+                width: 1.27rem;
+                // height: 1.7rem;
+                font-size: inherit;
+                margin: 0;
+                padding: 0;
+                border: 0;
+                outline: 0;
+                vertical-align: middle;
+                background: transparent;
+                list-style: none;
+                float: left;
+                // text-align: center;
+                border-right: solid 1px #eee;
+                a{
+                    font-size: inherit;
+                    margin: 0;
+                    padding: 0;
+                    border: 0;
+                    outline: 0;
+                    vertical-align: middle;
+                    background: transparent;
+                    list-style: none;
+                    &::before{
+                        content: "";
+                        position: absolute;
+                        top: 0;
+                        right: .0025rem;
+                        bottom: 0;
+                        border-right: .01rem solid #ededed;
+                    }
+                    .iob-img {
+                        height: .9rem;
+                        // line-height: .89rem;
+                        text-align: center; 
+                        .bgImg {
+                            height: 1rem;
+                            width: 1rem;
+                            // max-width: 100%;
+                            // max-height: 100%;
+                            display: inline-block;
+                            vertical-align: middle;
+                            width: auto;
+                            margin-top: .05rem;
+                            
+                        }
+                    }
+                    .iob-name {
+                        display: block;
+                        height: .25rem;
+                        // line-height: .14rem;
+                        overflow: hidden;
+                        font-size: .11rem;
+                        display: -webkit-box;
+                        text-overflow: ellipsis;
+                        padding: .05rem;
+                        margin-top: .3rem;
+                        color: #4d4d4d;
+                    }
+                    .iob-info {
+                        display: block;
+                        color: #ff2832;
+                        padding: .03rem .05rem;
+                        font-size: .15rem;
+                        font-weight: 700;
+                    }
+                }
+            }
+        }
+    }
+}
+    
+
+
+
